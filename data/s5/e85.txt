@@ -1,0 +1,3405 @@
+
+
+   Fool For Love - Buffy Episode 85 Transcript
+   
+    
+   
+[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Mark Connolly</o:Author>
+  <o:LastAuthor>Mark Connolly</o:LastAuthor>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>10</o:TotalTime>
+  <o:Created>2000-11-29T06:59:00Z</o:Created>
+  <o:LastSaved>2000-11-29T07:14:00Z</o:LastSaved>
+  <o:Pages>23</o:Pages>
+  <o:Words>5653</o:Words>
+  <o:Characters>32227</o:Characters>
+  <o:Company>Procrastination Inc.</o:Company>
+  <o:Lines>268</o:Lines>
+  <o:Paragraphs>64</o:Paragraphs>
+  <o:CharactersWithSpaces>39577</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]
+
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Courier New";
+	color:red;}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+
+
+
+
+
+
+
+
+
+Buffy
+Episode #85: Fool for Love Transcript
+
+[if !supportEmptyParas] [endif]
+
+Written by Douglas Petrie
+
+[if !supportEmptyParas] [endif]
+
+Prologue
+
+[if !supportEmptyParas] [endif]
+
+1     EXT.   SUNNYDALE
+CEMETERY- NIGHT    1
+
+[if !supportEmptyParas] [endif]
+
+All is quiet in the
+mist-shrouded graveyard. Suddenly, the peace is shattered as BUFFY pounds a
+VAMPIRE dressed like a Van Halen reject to the ground.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+You know, it's probably none
+of my business but I just gotta ask...
+
+[if !supportEmptyParas] [endif]
+
+The vampire lunges at her and
+she backhands it.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+You smell this bad when you
+were alive?
+
+[if !supportEmptyParas] [endif]
+
+She kicks the vampire into a
+headstone.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+'Cause if it's a post-mortem
+thing, then boy, is my face red...
+
+[if !supportEmptyParas] [endif]
+
+She flips him over the
+headstone and whips out a stake.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+But just so you know, the
+fast-growing field of personal grooming has come a long way since you became a
+vampire.
+
+[if !supportEmptyParas] [endif]
+
+Buffy somersaults over the
+headstone, stake raised and ready to strike. But the vampire seizes her arm as
+she lands, spins her around and plunges the stake into Buffy's abdomen. Her
+eyes go wide with shock and pain as she looks down at the stake protruding from
+her body.
+
+[if !supportEmptyParas] [endif]
+
+Opening credit sequence.
+
+[if !supportEmptyParas] [endif]
+
+[if !supportEmptyParas] [endif]
+
+ACT I
+
+[if !supportEmptyParas] [endif]
+
+2     EXT.   SUNNYDALE
+CEMETERY- NIGHT    2
+
+[if !supportEmptyParas] [endif]
+
+Resume. Buffy looks down in
+horror at the stake in her gut. She grips the shaft and, with a gasp of pain,
+pulls it out. Her sweater is soaked with her blood.
+
+[if !supportEmptyParas] [endif]
+
+For the first time in a long
+time, Buffy feels fear. She turns and flees, trying to escape the vampire. The
+hunter had become the hunted. Her wound slows her, however, and she casts
+terrified glances over her shoulder.
+
+[if !supportEmptyParas] [endif]
+
+Suddenly, the vampire leaps
+in front of her and she stops with a gasp, looking around desperately for an
+escape route.
+
+[if !supportEmptyParas] [endif]
+
+ROCKER VAMPIRE
+
+You're going? But you were
+having so much fun a minute ago!
+
+[if !supportEmptyParas] [endif]
+
+Buffy brings the stake up but
+the creature easily knocks it from her grasp and tosses her against a nearby
+crypt. She doubles over in pain as the vampire picks up her stake and
+approaches with a predatory grin.
+
+[if !supportEmptyParas] [endif]
+
+Buffy is helpless. She
+realizes that this is the moment she's been dreading but always knew would
+come. She's going to die.
+
+[if !supportEmptyParas] [endif]
+
+As the vampire raises the
+stake for the killing blow, he's suddenly tackled to the ground by RILEY. He
+rains blows down on the demon and takes out a taser but the vampire knocks it
+from his hand before he can use it and takes off across the graveyard. Riley is
+about to give chase when he notices Buffy's obvious distress and rushes to her
+aid.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Buffy! What happened?
+
+[if !supportEmptyParas] [endif]
+
+She holds up her bloody
+hands, then collapses in arms, unconscious.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+3     INT.   SUMMERS HOME-
+BUFFY'S ROOM- DAY    3
+
+[if !supportEmptyParas] [endif]
+
+Riley is applying first aid
+and dressing Buffy's wound.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+I can't believe I passed out.
+Do you think I'm a total wuss now?
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Oh, yeah. I like a girl who
+can play a few hard sets of tennis with a major stab wound.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+You said it wasn't that bad.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+I said I've seen worse.
+There's a difference.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Well, at least no major
+organs got kebabed.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+I still think you need to see
+a real doctor.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+That would put me in a real
+hospital which would get my real mom real freaked out. I can't do it. Don't
+worry. Accelerated healing powers come with the Slayer package. And the
+boyfriend who comes complete with combat medical training? That's just a Buffy
+Summers bonus.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+So tell me about the bad guy-
+or guys. What do you think they were?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Vampire.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+How many?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+One.
+
+[if !supportEmptyParas] [endif]
+
+Riley is surprised.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+So... what? He was like a
+super-vampire or something?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+No, he was the regular kind.
+He just beat me.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+That ever happen before?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+I'm in the best physical
+shape of my life. I mean, if you're asking how it happened, I don't-
+
+[if !supportEmptyParas] [endif]
+
+The door flies open and DAWN
+runs in.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Dawn!
+
+[if !supportEmptyParas] [endif]
+
+DAWN
+
+Sorry to interrupt the
+sex-capades. I just wanted to tell you that Mom's coming.
+
+[if !supportEmptyParas] [endif]
+
+Riley hides the bandages and
+tape just as JOYCE enters the room.
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+Hi, Riley.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Hey, Mrs. Summers. How're you
+feeling?
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+I'm fine, bordering on
+chipper and tomorrow planning on being obnoxious.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+(smiles)
+
+Glad to hear it.
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+Buffy, when you have a minute
+I'd like to go over the grocery list for next week.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+You got it.
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+(re: alcohol)
+
+Are you disinfecting
+something?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Huh? Oh, uh-
+
+[if !supportEmptyParas] [endif]
+
+DAWN
+
+Mine! Some nail polish
+experiments are doomed before they even begin.
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+But you keep pushing the
+envelope, honey.
+
+[if !supportEmptyParas] [endif]
+
+Joyce smiles and leaves,
+closing the bedroom door behind her.
+
+[if !supportEmptyParas] [endif]
+
+DAWN
+
+(smiles; to Buffy)
+
+Did I just pull a
+Slayer-related Mom cover-up thing? Come on, who's the man?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+You are. A very short,
+annoying man.
+
+[if !supportEmptyParas] [endif]
+
+Stung, Dawn's smile fades.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+If I show you something, you
+promise you won't tell?
+
+[if !supportEmptyParas] [endif]
+
+Dawn crosses her heart and
+Buffy lifts her shirt to reveal the bandaged stab wound. Dawn is awed.
+
+[if !supportEmptyParas] [endif]
+
+DAWN
+
+Oh, cool! (off Buffy's look)
+I mean, gross!
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+And Mom cannot know. Okay?
+You'll help me with the household stuff?
+
+[if !supportEmptyParas] [endif]
+
+DAWN
+
+Oh, sure. I save your butt
+and you dump all your chores on me. (off Buffy's look) I got it. You're
+covered. We're good. Just lucky it's not bikini season.
+
+[if !supportEmptyParas] [endif]
+
+Buffy smiles and strokes
+Dawn's hair.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+So Dawn takes household duty.
+I'll take tonight's patrol.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+By yourself?
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Just a sweep.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Do me a favor? Will you take
+the gang along with?
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Okay. I will patrol with the
+group tonight.
+
+[if !supportEmptyParas] [endif]
+
+DAWN
+
+When do I get to patrol?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Not until you're never.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+4     EXT.   SUNNYDALE
+CEMETERY- NIGHT    4
+
+[if !supportEmptyParas] [endif]
+
+Riley moves stealthily among
+the headstones, ducking from shadow to shadow. He pauses behind a large marble
+slab and raises his arm, fist closed, and pumps it up and down twice before
+moving further into the cemetery.
+
+[if !supportEmptyParas] [endif]
+
+WILLOW, ANYA and XANDER
+follow about twenty yards behind him, munching potato chips and making no
+effort to conceal themselves.
+
+[if !supportEmptyParas] [endif]
+
+XANDER
+
+(to Willow)
+
+What's with the hand move?
+Does that like mean something?
+
+[if !supportEmptyParas] [endif]
+
+WILLOW
+
+It's code. I think it breaks
+down to "choo-choo".
+
+[if !supportEmptyParas] [endif]
+
+She mimics pulling a train
+whistle.
+
+[if !supportEmptyParas] [endif]
+
+ANYA
+
+It means to follow him. That,
+or wait here for him.
+
+[if !supportEmptyParas] [endif]
+
+They watch Riley's covert
+movements for a moment, then Willow turns to Xander.
+
+[if !supportEmptyParas] [endif]
+
+WILLOW
+
+Ask.
+
+[if !supportEmptyParas] [endif]
+
+XANDER
+
+(yells)
+
+Hey, Riley! What's the (hand
+gesture) all about?
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+(exasperated)
+
+It means yell real loud so
+the vampires who don't know we're coming will have a sporting chance.
+
+[if !supportEmptyParas] [endif]
+
+XANDER
+
+(to Willow)
+
+See, now he's all mean and
+sarcastic.
+
+[if !supportEmptyParas] [endif]
+
+WILLOW
+
+That's because you were doing
+all the yelling, Mr. Stealthy-Pants.
+
+[if !supportEmptyParas] [endif]
+
+ANYA
+
+(to Riley)
+
+It's their fault.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Guys, I'm thinking if we
+split up, we could cover more ground. Tell you what? I'll take the cemeteries,
+you guys get the Bronze.
+
+[if !supportEmptyParas] [endif]
+
+ANYA
+
+Are we not being covert
+enough?
+
+[if !supportEmptyParas] [endif]
+
+XANDER
+
+We're sorry!
+
+[if !supportEmptyParas] [endif]
+
+WILLOW
+
+Sorry.
+
+[if !supportEmptyParas] [endif]
+
+XANDER
+
+We'll be sneakier. Promise.
+
+[if !supportEmptyParas] [endif]
+
+He munches loudly on a
+handful of chips.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Okay. Just ditch the chips
+and watch my back.
+
+[if !supportEmptyParas] [endif]
+
+WILLOW
+
+Done.
+
+[if !supportEmptyParas] [endif]
+
+She reaches into the bag and
+grabs a handful of chips herself before setting the bag down. Riley moves off
+into the cemetery again.
+
+[if !supportEmptyParas] [endif]
+
+XANDER
+
+(to Anya)
+
+You know what he's like? He's
+like a cat. You know, a big jungle cat. How come I'm not like that? It's just
+so cool.
+
+[if !supportEmptyParas] [endif]
+
+WILLOW
+
+(munching)
+
+I think you're cool.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+5     INT.   THE MAGIC BOX-
+NIGHT   5
+
+[if !supportEmptyParas] [endif]
+
+The reading table is piled
+high with books. GILES and Buffy are into some deep research.
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+Here's another one. Early
+18th Century Slayer.
+
+[if !supportEmptyParas] [endif]
+
+Buffy closes her book with a
+sigh and sets it on the stack.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Good. Let's hope she'll be
+more helpful than this last one.
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+Why? What does it say?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Same as all the others.
+Slayer called... blah, blah... great protector... blah, blah... scary
+battles... blah, blah... oops! She's dead. Where are the details?
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+Details? Well, it says this
+Slayer forged her own weapons.
+
+[if !supportEmptyParas] [endif]
+
+He hands the book to Buffy.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Gotta love a gal with an
+anvil. But where are the details of the Slayer's last battle? You know, what
+made that fight special? Why did she lose?
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+You didn't lose last night,
+Buffy. You just-
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Got really close. I slipped
+up, Giles. I've been training harder than ever and still I... (beat) And
+there's nothing in any of these books to help me understand why. I mean... look,
+I realize that every Slayer comes with an expiration mark on the package. But I
+want mine to be a long time from now. Like a Cheeto. If there were just a few
+good descriptions of what took out the other Slayers, maybe it would help me to
+understand my mistake, to keep it from happening again.
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+Yes, well, the problem is
+after a final battle, it's difficult to get any... well, the Slayer's not...
+she's rather...
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+It's okay to use the D-word,
+Giles.
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+Dead. And hence not very
+forthcoming.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Why didn't the Watchers keep
+fuller accounts of it? The journals just stop.
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+Well, I suppose if they're
+anything like me, they just find the whole subject too-
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Unseemly? Damn. Love ya but
+you Watchers are such prigs sometimes.
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+Painful... I was going to
+say.
+
+[if !supportEmptyParas] [endif]
+
+Buffy and Giles share a
+meaningful look.
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+But you're right. Accounts of
+the final battles would be very helpful. But there's no one left to tell the
+tales.
+
+[if !supportEmptyParas] [endif]
+
+Buffy has a sudden revelation.
+
+[if !supportEmptyParas] [endif]
+
+GILES
+
+What?
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+6     INT.   SPIKE'S CRYPT-
+NIGHT   6
+
+[if !supportEmptyParas] [endif]
+
+Buffy shoves SPIKE against
+the wall and holds him there.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Ow! (beat) Wait. Not ow. You
+feeling all right, Slayer? This stuff usually hurts.
+
+[if !supportEmptyParas] [endif]
+
+Buffy spins him around to
+face her.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Don't even start, Spike.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+What do you want?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Slayers. You killed two of
+them.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(wary)
+
+I did.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+You're gonna show me how.
+
+[if !supportEmptyParas] [endif]
+
+FADE OUT
+
+[if !supportEmptyParas] [endif]
+
+[if !supportEmptyParas] [endif]
+
+ACT II
+
+[if !supportEmptyParas] [endif]
+
+7     INT.   THE BRONZE- NIGHT      7
+
+[if !supportEmptyParas] [endif]
+
+Spike and Buffy sit at a
+corner table. Spike greedily drains a mug of beer while Buffy stoically
+watches.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+You know, there quite a few
+American beers that are highly underrated. This unfortunately is not one of
+them.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Update, Spike. We're not here
+to discuss the fine choice of hops. It's about two Slayers: one in China during
+the Boxer Rebellion, one in New York.
+
+[if !supportEmptyParas] [endif]
+
+She holds up a wad of cash
+and snatches it back as he tries to grab for it.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Both got killed by you. Tell
+the tale, you get the cash.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Right. You want to learn all
+about how I bested the Slayers and you want to learn fast. Right, then. We
+fought. I won. The end. Pay up.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+That's not what I-
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+What did you want, eh? A
+quick demo? A blow-for-blow description you can map out and memorize? It's not
+about the moves, love. And since I agreed to your little proposition, we can do
+this my way. Wings.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+What?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Spicy buffalo wings. Order me
+up a plate. I'm feelin' peckish.
+
+[if !supportEmptyParas] [endif]
+
+Buffy sighs and turns to
+signal a waitress.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Excuse me-
+
+[if !supportEmptyParas] [endif]
+
+The movement aggravates her
+injury and she winces in pain.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+As I thought. Some nasty
+thing got a taste of you.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Don't get all excited. I'm
+fine.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Oh, right. Stuck in a dark
+corner with a creature you loathe, diggin' up past uglies, 'cause you're fine.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Just tell me what I want to
+know.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+I told you. No one's
+narrating on an empty stomach here.
+
+[if !supportEmptyParas] [endif]
+
+Buffy shakes her head in
+exasperation.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Were you born this big a pain
+in the ass?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+What can I tell you, baby?
+I've always been bad.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+8     INT.   LONDON (1880)-
+VICTORIAN PARLOR- NIGHT   8
+
+[if !supportEmptyParas] [endif]
+
+A very different Spike is
+sitting and composing poetry off in the corner of a dinner party. The spirited
+laughter of the party-goers can be heard in the background. Spike's hair is
+long and unruly and he's dressed as a proper gentleman, complete with tie and
+reading spectacles. He's awkward and bookish- none of the confident swagger
+we're used to.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to himself)
+
+Luminous... oh, no, no, no.
+Irradiant's better.
+
+[if !supportEmptyParas] [endif]
+
+A WAITER approaches and holds
+out a tray.
+
+[if !supportEmptyParas] [endif]
+
+WAITER
+
+Care for an hors d'oeuvre,
+sir?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Oh, quickly! I'm the very
+spirit of vexation. What's another word for "gleaming"? It's a
+perfectly perfect word as many words go but the bother is nothing rhymes, you
+see.
+
+[if !supportEmptyParas] [endif]
+
+The waiter smiles
+patronizingly and moves off into the crowd. Spike's eyes are drawn to CECILY,
+young woman just entering the party.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Cecily...
+
+[if !supportEmptyParas] [endif]
+
+He turns back to his poem
+with renewed purpose and jots down several more lines, then gets up and moves
+through the crowd toward her.
+
+[if !supportEmptyParas] [endif]
+
+TITLE CARD: London, 1880
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+A group of young ARISTOCRATs-
+a woman and her two male companions- are gathered, discussing current events.
+
+[if !supportEmptyParas] [endif]
+
+ARISTOCRAT #1
+
+I mean to point out that it's
+something of a mystery and the police should keep an open mind.
+
+[if !supportEmptyParas] [endif]
+
+One of the men turns to Spike
+as he passes by.
+
+[if !supportEmptyParas] [endif]
+
+ARISTOCRAT #2
+
+(to Spike)
+
+Ah, William! Favor us with
+your opinion. What do you make of this rash of disappearances sweeping through
+our town? Animals or thieves?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(haughty)
+
+I prefer not to think of such
+dark, ugly business at all. That's what the police are for. (looks at Cecily) I
+prefer placing my energies into creating things of beauty.
+
+[if !supportEmptyParas] [endif]
+
+The third aristocrat snatches
+the poem from Spike's hands.
+
+[if !supportEmptyParas] [endif]
+
+ARISTOCRAT #3
+
+I see. Well, don't withhold,
+William.
+
+[if !supportEmptyParas] [endif]
+
+ARISTOCRAT #1
+
+Rescue us from a dreary
+topic.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to Aristocrat #3)
+
+Careful. The inks are still
+wet. Please, it's not finished.
+
+[if !supportEmptyParas] [endif]
+
+ARISTOCRAT #3
+
+Don't be shy. (reads)
+"My heart expands/'tis grown a bulge in it/inspired by your beauty,
+effulgent." (laughs) Effulgent?
+
+[if !supportEmptyParas] [endif]
+
+Everyone laughs, mocking
+Spike. Uncomfortable, Cecily glances at Spike and walks off. Spike shoots
+Aristocrat #3 a sour look, snatches back his poem, and follows her.
+
+[if !supportEmptyParas] [endif]
+
+ARISTOCRAT #2
+
+And that's actually one of
+his better compositions.
+
+[if !supportEmptyParas] [endif]
+
+ARISTOCRAT #1
+
+Have you heard? They call him
+William the Bloody because of his bloody awful poetry!
+
+[if !supportEmptyParas] [endif]
+
+ARISTOCRAT #3
+
+It suits him. I'd rather have
+a railroad spike through my head than listen to that awful stuff!
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+Spike approaches Cecily who
+is sitting on a sofa, away from the main party, and looking out the window.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Cecily?
+
+[if !supportEmptyParas] [endif]
+
+She turns and sighs when she
+sees him.
+
+[if !supportEmptyParas] [endif]
+
+CECILY
+
+Oh. Leave me alone.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(re: other guests)
+
+Oh, they're vulgarians.
+They're not like you and I.
+
+[if !supportEmptyParas] [endif]
+
+CECILY
+
+You and I? I'm going to ask
+you a very personal question and I demand an honest answer. Do you understand?
+
+[if !supportEmptyParas] [endif]
+
+He nods.
+
+[if !supportEmptyParas] [endif]
+
+CECILY
+
+Your poetry, it's...
+they're... not written about me, are they?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+They're about how I feel.
+
+[if !supportEmptyParas] [endif]
+
+CECILY
+
+Yes, but are they about me?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Every syllable.
+
+[if !supportEmptyParas] [endif]
+
+CECILY
+
+Oh, God!
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Oh, I know... it's sudden
+and... please, if they're no good, they're only words but... the feeling behind
+them... I love you, Cecily.
+
+[if !supportEmptyParas] [endif]
+
+CECILY
+
+Please stop!
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+I know I'm a bad poet but I'm
+a good man and all I ask is that... that you try to see me-
+
+[if !supportEmptyParas] [endif]
+
+CECILY
+
+I do see you. That's the
+problem. You're nothing to me, William. You're beneath me.
+
+[if !supportEmptyParas] [endif]
+
+She stands and walks off,
+leaving Spike devastated and alone.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+9     EXT.   LONDON STREET-
+NIGHT   9
+
+[if !supportEmptyParas] [endif]
+
+Spike staggers down the
+street in tears, ripping up his poems as he goes. He bumps into a passerby and
+drops the pages.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Watch where you're going!
+
+[if !supportEmptyParas] [endif]
+
+He gathers up the torn sheets
+and makes his way toward a nearby alleyway.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+10    EXT.   LONDON ALLEY- NIGHT    10
+
+[if !supportEmptyParas] [endif]
+
+Spike is sitting on a bale of
+hay and finishing the job of destroying his poetry. He looks up at the sound of
+a woman's voice to find DRUSILLA standing serenely in the dark alley with him.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+And I wonder... what possible
+catastrophe came crashing down from heaven and brought this dashing stranger to
+tears?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Nothing. I wish to be alone.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+Oh, I see you. A man
+surrounded by fools who cannot see his strength, his vision, his glory. (beat)
+That and burning baby fish swimming all around your head.
+
+[if !supportEmptyParas] [endif]
+
+Spike backs away from her,
+nervous.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+That's quite close enough.
+I've heard tales of London pickpockets. You'll not be getting my purse, I tell
+you.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+(smiles)
+
+Don't need a purse.
+
+[if !supportEmptyParas] [endif]
+
+She points to his heart and
+head in succession.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+Your wealth lies here... and
+here. In the spirit and... imagination. You walk in worlds the others can't
+begin to imagine.
+
+[if !supportEmptyParas] [endif]
+
+Spike is riveted by her
+insight into his character.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Oh, yes! I mean, no. I
+mean... mother's expecting me.
+
+[if !supportEmptyParas] [endif]
+
+Drusilla opens the collar of
+his shirt.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+I see what you want.
+Something glowing and glistening. Something... effulgent.
+
+[if !supportEmptyParas] [endif]
+
+Spike is beside himself.
+Finally someone who understands him.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(sotto)
+
+Effulgent.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+Do you want it?
+
+[if !supportEmptyParas] [endif]
+
+Spike has never wanted
+anything more.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Oh, yes! (touches her chest)
+God, yes.
+
+[if !supportEmptyParas] [endif]
+
+Drusilla looks down for a
+moment as her face changes and her fangs descend. Spike reacts, more confused
+than afraid. She pulls back his shirt collar and buries her fangs in his neck.
+Spike cries out in pain but his cries quickly turn to moans of pleasure as
+Drusilla ends his human existence.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+11    EXT.   SUNNYDALE CEMETERY (PRESENT)- NIGHT      11
+
+[if !supportEmptyParas] [endif]
+
+Riley, Willow, Anya and
+Xander are crouched behind headstones as the Rocker Vampire who staked Buffy
+makes his way through the graveyard. Riley sees him first.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Guys...
+
+[if !supportEmptyParas] [endif]
+
+XANDER
+
+What you got?
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+That's him. Let's go.
+
+[if !supportEmptyParas] [endif]
+
+The vampire slips into a
+crypt as the four of them cautiously approach. Boisterous laughter can be heard
+coming from inside. Riley motions for the others to stay put as he steals up to
+the crypt entrance and peers inside. He sees the Rocker Vampire with four
+others and backs off, frustrated. He returns to the others.
+
+[if !supportEmptyParas] [endif]
+
+XANDER
+
+It sounds like a party in
+there.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+Forget about crashing.
+There's too many of them. We'll come back at daybreak when they're asleep and
+we're better armed. It's okay. We can kill them just as dead in the morning.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+12    INT.   THE BRONZE- NIGHT      12
+
+[if !supportEmptyParas] [endif]
+
+Buffy and Spike are shooting
+pool as Spike relates his story.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+So you traded up on the food
+chain. Then what?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+No, please. Don't make it
+sound like something you'd flip past on the Discovery Channel. Becoming a
+vampire is a profound and powerful experience. I could feel this new strength
+coursing through me. Getting killed made me feel alive for the very first time.
+I was through living by society's rules. Decided to make a few of my own. Of
+course, in order to do that... I had to get myself a gang.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+13    INT.   YORKSHIRE, ENGLAND
+(1880)- COAL MINE- DAY      13
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS has Spike by the
+throat, choking him.
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+Perhaps it's my advancing
+years that makes me so forgetful, William. Remind me. Why don't we kill you?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(chokes)
+
+...ike.
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+What's that?
+
+[if !supportEmptyParas] [endif]
+
+TITLE CARD: Yorkshire, 1880
+
+[if !supportEmptyParas] [endif]
+
+Angelus releases Spike in
+disgust.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+It's Spike now.
+
+[if !supportEmptyParas] [endif]
+
+Reveal Drusilla and DARLA
+standing to either side of Angelus.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+You'd do well to remember it,
+mate.
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+I'm not your mate. And when
+did you start talking like that?
+
+[if !supportEmptyParas] [endif]
+
+DARLA
+
+(to Spike)
+
+Look, we barely got out of
+London alive because of you. Everywhere we go, it's the same story and now-
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+You've got me and my women
+hiding in the luxury of a mine shaft, all because William the Bloody likes the
+attention. This is not a reputation we need.
+
+[if !supportEmptyParas] [endif]
+
+Spike takes a deep swig from
+a wine bottle.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Oh, I'm sorry. Did I sully
+our good name? We're vampires.
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+All the more reason to use a
+certain amount of finesse.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Bollocks! That stuff's for
+the frilly cuffs-and-collars crowd. I'll take a good brawl any day.
+
+[if !supportEmptyParas] [endif]
+
+Angelus approaches Spike
+menacingly.
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+And every time you do, we
+become the hunted.
+
+[if !supportEmptyParas] [endif]
+
+DARLA
+
+(sing-song; to Drusilla)
+
+I think our boys are going to
+fight.
+
+[if !supportEmptyParas] [endif]
+
+Drusilla claps her hands
+giddily.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+The King of Cups expects a
+picnic! But this is not his birthday.
+
+[if !supportEmptyParas] [endif]
+
+Darla looks at Drusilla like
+she's crazy.
+
+[if !supportEmptyParas] [endif]
+
+DARLA
+
+Good point...
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to Angelus)
+
+Yeah, you know what I prefer
+to being hunted? Getting caught.
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+That's a brilliant strategy
+really... pure cunning.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Sod off! (laughs) Come on.
+When was the last time you unleashed it? All out fight in a mob, back against
+the wall, nothing but fists and fangs? Don't you ever get tired of fights you
+know you're going to win?
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+No. A real kill. A good kill.
+It takes pure artistry. Without that, we're just animals.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Poofter!
+
+[if !supportEmptyParas] [endif]
+
+Angelus shoves Spike and the
+fight is on. Angelus snaps a metal rod in half, lifts Spike up and slams him
+down on his back, raising the makeshift stake. Spike stops it inches from his
+heart and smiles up at Angelus.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Now you're gettin' it!
+
+[if !supportEmptyParas] [endif]
+
+Angelus drops the rod and
+backs off.
+
+[if !supportEmptyParas] [endif]
+
+ANGELUS
+
+You can't keep this up
+forever. If I can't teach you, maybe someday an angry crowd will. That... or
+the Slayer.
+
+[if !supportEmptyParas] [endif]
+
+Spike sits up, suddenly
+interested.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+What's a Slayer?
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+14    INT.   THE BRONZE (PRESENT)- NIGHT  14
+
+[if !supportEmptyParas] [endif]
+
+Back to the pool game. Buffy
+listens while Spike tells his tale.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+After that, I was obsessed. I
+mean, to most vampires, the Slayer was the subject of cold sweat and frightened
+whispers. But I never hid. Hell, I sought her out. I mean, if you're looking
+for fun, there's death, there's glory and sod all else, right? (shrugs) I was
+young.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+So how'd you kill her?
+
+[if !supportEmptyParas] [endif]
+
+Spike moves behind Buffy.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Funny you should ask.
+
+[if !supportEmptyParas] [endif]
+
+His hand whips out and takes
+her by the neck. She instinctually reacts, bringing the pool cue up as a weapon
+but Spike holds her at bay.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Lesson the first: a Slayer
+must always reach for her weapon.
+
+[if !supportEmptyParas] [endif]
+
+His face shifts as the demon
+in him comes forward.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+I've already got mine.
+
+[if !supportEmptyParas] [endif]
+
+He shakes his head and his
+face returns to normal. After a moment, he releases Buffy's neck and takes the
+pool cue from her. He walks over to the table and lines up a shot.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+A good thing, too. Become a
+vampire, you've got nothing to fear. Nothing but one girl. That's you, honey.
+Back then... it was her.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+15    INT.   CHINA (1900)-
+BUDDHIST TEMPLE- NIGHT     15
+
+[if !supportEmptyParas] [endif]
+
+Spike and the SLAYER are
+fighting. She's a young, diminutive Chinese girl, adept at martial arts and
+swordsmanship. She kicks Spike back and whips her sword at his head. He ducks
+but not quite quick enough. The blade splits the skin over his left eyebrow and
+blood runs down his face. Spike is enjoying himself immensely.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+16    EXT.   CHINESE VILLAGE-
+NIGHT 16
+
+[if !supportEmptyParas] [endif]
+
+Fires burn as panicked villagers
+flee in every direction, their belongings and farm animals in tow. Explosions
+can be heard not too far distant.
+
+[if !supportEmptyParas] [endif]
+
+TITLE CARD: China, 1900
+
+            Boxer Rebellion
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+17    INT.   CHINA- BUDDHIST
+TEMPLE- NIGHT      17
+
+[if !supportEmptyParas] [endif]
+
+Spike dodges another blow
+from the Slayer's sword.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Just like I pictured it. This
+good for you?
+
+[if !supportEmptyParas] [endif]
+
+The Slayer charges him, sword
+whickering through the air in a deadly blur. Spike dodges every swing and
+viciously backhands the girl, breaking her grip on the sword.
+
+[if !supportEmptyParas] [endif]
+
+The Slayer goes hand-to-hand
+with Spike, landing several kicks and punches to his head, serving only to
+further enrage the vampire. He beats her back but begins to lose ground again.
+The Slayer backs him up against a support column and pins him there, her foot
+to his throat. She raises a stake, poised to strike the killing blow, when an
+explosion outside blasts part of the temple wall inward, the concussion
+breaking her hold on Spike.
+
+[if !supportEmptyParas] [endif]
+
+Spike goes on the offensive,
+knocking the stake from her hand. As the Slayer bends to retrieve it, Spike
+seizes her arm and wrenches it up behind her back. He pulls the hapless girl to
+him and sinks his fangs deep into her neck.
+
+[if !supportEmptyParas] [endif]
+
+The Slayer gasps in pain as
+her life drains away. Spike turns the dying girl toward him. She speaks to him
+in Chinese.
+
+[if !supportEmptyParas] [endif]
+
+SLAYER
+
+(subtitle)
+
+Tell my mother I'm sorry...
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+I'm sorry, love, I don't
+speak Chinese.
+
+[if !supportEmptyParas] [endif]
+
+She dies and Spike throws her
+to the ground like so much refuse. Panting heavily, he licks his lips with
+pleasure.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to himself)
+
+A fella could get used to
+this.
+
+[if !supportEmptyParas] [endif]
+
+FADE OUT
+
+[if !supportEmptyParas] [endif]
+
+[if !supportEmptyParas] [endif]
+
+ACT III
+
+[if !supportEmptyParas] [endif]
+
+18    INT.   CHINA- BUDDHIST
+TEMPLE- NIGHT      18
+
+[if !supportEmptyParas] [endif]
+
+Resume. Spike is staring down
+at the Slayer's corpse as Drusilla glides into the temple.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+Oh, Spike, look at the
+wonderful mess you've made. That's a Slayer you've done in. Naughty...
+wicked... Spike.
+
+[if !supportEmptyParas] [endif]
+
+She holds out her hand and
+Spike approaches, lust in his eyes. He grabs Drusilla up in his arms and looks
+into her eyes.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+You ever hear them saying the
+blood of a Slayer is a powerful aphrodisiac?
+
+[if !supportEmptyParas] [endif]
+
+She looks at him, wanton
+hunger in her eyes.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Here, now... have a taste.
+
+[if !supportEmptyParas] [endif]
+
+He holds his blood-covered
+finger up and she seductively sucks on it, moaning with pleasure. Spike grins
+and picks her up, pushing her against the wall and kissing her passionately.
+She eagerly responds, pulling at his clothes as they sink to the floor in each
+other's embrace.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+19    EXT.   CHINESE VILLAGE-
+STREET- NIGHT     19
+
+[if !supportEmptyParas] [endif]
+
+Houses burn brightly as the
+terrified villagers flee the looters. Spike and Drusilla walk arm-in-arm
+through the violence, smiling and whispering to each other. They meet Darla and
+Angel, the four of them forming an incongruous picture of calm amid the panic
+and terrified screams around them.
+
+[if !supportEmptyParas] [endif]
+
+DARLA
+
+So where have you two been?
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+(to Spike)
+
+May I tell?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+No need to be humble.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+(to Darla)
+
+My little Spike just killed
+himself a Slayer.
+
+[if !supportEmptyParas] [endif]
+
+Angel looks him up and down,
+his face expressionless.
+
+[if !supportEmptyParas] [endif]
+
+ANGEL
+
+Congratulations. I guess that
+makes you one of us.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Don't be so glum, mate! The
+way you tell it, one Slayer snuffs it, another one rises. I figure there's a
+new Chosen One getting all chosen as we speak. I tell you what... when and if
+this new bird does show up, I'll give you first crack at her.
+
+[if !supportEmptyParas] [endif]
+
+Drusilla's attention is
+suddenly drawn to something behind Angel.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+I smell fear.
+
+[if !supportEmptyParas] [endif]
+
+ANGEL
+
+Yeah, this whole place reeks
+of it.
+
+[if !supportEmptyParas] [endif]
+
+Drusilla sinks into Spike's
+arms, ecstatic.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+It's intoxicating!
+
+[if !supportEmptyParas] [endif]
+
+Angel takes Darla by the arm.
+
+[if !supportEmptyParas] [endif]
+
+ANGEL
+
+Let's get out of here. This
+rebellion's starting to bore me.
+
+[if !supportEmptyParas] [endif]
+
+Spike and Drusilla revel in
+the misery around them, laughing in each other's arms, before following Angel
+and Darla into the night.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+20    INT.   THE BRONZE
+(PRESENT)- NIGHT  20
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+That was the best night of my
+life.
+
+[if !supportEmptyParas] [endif]
+
+Spike and Buffy are still at
+the pool table. Buffy's face is neutral, expressionless, at Spike's casual
+description of the death of a Slayer.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+And I've had some sweet ones.
+(off her look) What are you looking at?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+(disgusted)
+
+You got off on it.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Well, yeah. I suppose you're
+telling me you don't? (laughs) How many of my kind reckon you've done?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Not enough.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(nods)
+
+And we just keep coming. But
+you can kill a hundred, a thousand, a thousand thousand and the enemies of Hell
+besides and all we need is for one of us- just one- sooner or later to have the
+thing we're all hoping for.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+And that would be what?
+
+[if !supportEmptyParas] [endif]
+
+Spike leans in close and
+whispers in her ear.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+One... good... day.
+
+[if !supportEmptyParas] [endif]
+
+Buffy pushes him away from
+her.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(laughs)
+
+Hey! You asked and I'm
+tellin'. The problem with you, Summers, is you've gotten so good, you're
+starting to think you're immortal.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Not really. I just know I can
+handle myself.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Oh? Then how do you explain
+this?
+
+[if !supportEmptyParas] [endif]
+
+He reaches out and punches
+Buffy in her wound. Both Buffy and Spike cry out in pain as Buffy doubles over
+and Spike's chip lights his brain on fire.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+(gasping)
+
+So that's it? Lesson over?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Not even close. Come on.
+
+[if !supportEmptyParas] [endif]
+
+He picks up a pool cue and
+heads outside.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+21    EXT.   SUNNYDALE CEMETERY-
+NIGHT    21
+
+[if !supportEmptyParas] [endif]
+
+Riley strides purposefully
+through the mist-shrouded trees toward the crypt where the vampires are still
+partying. The Rocker Vampire is regaling his companions with his tale of
+fighting and besting a Slayer.
+
+[if !supportEmptyParas] [endif]
+
+ROCKER VAMPIRE
+
+(o.s.)
+
+Killed with her own weapon!
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+22    INT.   SUNNYDALE CEMETERY-
+CRYPT- NIGHT   22
+
+[if !supportEmptyParas] [endif]
+
+The Rocker Vampire holds up
+Buffy's stake for the others to see.
+
+[if !supportEmptyParas] [endif]
+
+ROCKER VAMPIRE
+
+They ought to put this in a
+museum!
+
+[if !supportEmptyParas] [endif]
+
+The door bangs open and Riley
+walks confidently in.
+
+[if !supportEmptyParas] [endif]
+
+RILEY
+
+You know what they put in
+museums? Mostly dead things.
+
+[if !supportEmptyParas] [endif]
+
+The Rocker Vampire leaps up
+and charges Riley. He easily blocks the demon's blows and seizes its arm,
+giving it a violent twist. The vampire's arm breaks with a snap and the stake
+drops from its hand into Riley's. Without hesitation, Riley slams it into the
+vampire's chest. As the dust settles to the floor, Riley takes out an
+incendiary grenade and pulls the pin. The handle flips up and Riley holds it
+for a beat, letting the fuse burn down. Then he sets it on the ground in front
+of the stunned vampires and runs out the crypt door.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+23    EXT.   SUNNYDALE CEMETERY-
+NIGHT    23
+
+[if !supportEmptyParas] [endif]
+
+Riley dashes into the trees
+as the crypt explodes from within.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+24    EXT.   THE BRONZE- NIGHT      24
+
+[if !supportEmptyParas] [endif]
+
+Buffy squares off with Spike.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Give it to me.
+
+[if !supportEmptyParas] [endif]
+
+Spike lashes out at her and
+she easily ducks his blows, then wraps her hand around his throat, pinning him
+against a chain-link fence. Spike smiles and laughs.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+What?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Lesson the second: ask the
+right questions. You want to know how I beat 'em?
+
+[if !supportEmptyParas] [endif]
+
+Buffy releases him and steps
+back.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+The question isn't "How'd
+I win?". The question is "Why'd they lose?".
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+What's the difference?
+
+[if !supportEmptyParas] [endif]
+
+Spike lunges at her, the pool
+cue aimed at her throat. Spike stops it inches from her skin. Buffy never even
+flinches.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+There's a big difference,
+love.
+
+[if !supportEmptyParas] [endif]
+
+Buffy kicks the cue from his
+hands.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+How'd you kill the second
+one?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Hmm? A bit like this.
+
+[if !supportEmptyParas] [endif]
+
+He sends a series of punches
+at her but Buffy easily ducks them all.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+That didn't hurt?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+I knew I couldn't touch you.
+If there's no intent to hurt you, then that chip they shoved up my brain never
+activates. If, on the other hand...
+
+[if !supportEmptyParas] [endif]
+
+Spike's face changes and he
+lunges at her but he's brought up short by a crippling brain seizure.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+See, now that hurt.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Yeah? This hurt too?
+
+[if !supportEmptyParas] [endif]
+
+Buffy gut-punches him, then
+pounds him to the ground.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+How'd you kill 'em, Spike?
+
+[if !supportEmptyParas] [endif]
+
+He jumps up and attacks but
+Buffy flips him over onto the ground again, whips out a stake and lands on top
+of him. Spike seizes her wrist before she can plunge it into his chest.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+You're not ready to know.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+I'm ready.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Okay, then. Went like this.
+
+[if !supportEmptyParas] [endif]
+
+Spike flips Buffy up and off
+him as we
+
+[if !supportEmptyParas] [endif]
+
+SMASH CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+25    INT.   NEW YORK CITY
+(1977)- SUBWAY CAR- NIGHT  25
+
+[if !supportEmptyParas] [endif]
+
+A young black woman in dark
+leather lands hard on the floor of the train and rolls to her feet. Spike,
+looking very much like Billy Idol, squares off with the Slayer and throws a
+punch. The car is empty, save for the two combatants.
+
+[if !supportEmptyParas] [endif]
+
+TITLE CARD: New York City,
+1977
+
+[if !supportEmptyParas] [endif]
+
+BEGIN INTERCUT
+
+[if !supportEmptyParas] [endif]
+
+The fight on the subway car
+and Buffy and Spike outside the Bronze.
+
+[if !supportEmptyParas] [endif]
+
+As Spike fights the Slayer in
+the past, he also fights Buffy in the present, the battles mirroring each other
+across time. Spike feels no pain from the chip, indicating the fight with Buffy
+is more demonstration than anything else.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to Buffy)
+
+The first was all business
+but the second, she had a touch of your style.
+
+[if !supportEmptyParas] [endif]
+
+Spike and the Slayer trade
+blows. This Slayer does indeed fight much like Buffy. She runs Spike headfirst
+into the train car's window, smashing it. Spike looses a cry of delight and
+attacks again.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to Buffy)
+
+She was cunning,
+resourceful... oh, did I mention? Hot. I could have danced all night with that
+one.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+You think we're dancing?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+That's all we've ever done.
+
+[if !supportEmptyParas] [endif]
+
+Spike breaks one of the
+subway car's hand rails and wields it as a weapon.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(v.o.)
+
+And the thing about the dance
+is, you never get to stop.
+
+[if !supportEmptyParas] [endif]
+
+Spike flips the pool cue up
+and spins it like the hand rail.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to Buffy)
+
+Every day you wake up, it's
+the same bloody question that haunts you: is today the day I die?
+
+[if !supportEmptyParas] [endif]
+
+He brings the pool cue down
+in a vicious arc and Buffy counter-attacks, enraged.
+
+[if !supportEmptyParas] [endif]
+
+Spike cracks the Slayer
+across the face with the metal rail, sending her reeling to the floor and
+pounds her repeatedly with it.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(v.o.)
+
+Death is on your heels, baby,
+and sooner or later it's gonna catch you.
+
+[if !supportEmptyParas] [endif]
+
+Spike brings the rail down
+for another blow but the Slayer catches it and slams it back into his face.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to Buffy)
+
+And part of you wants it...
+not only to stop the fear and uncertainty, but because you're just a little bit
+in love with it.
+
+[if !supportEmptyParas] [endif]
+
+Buffy has heard enough. She
+backhands Spike across the face.
+
+[if !supportEmptyParas] [endif]
+
+On the subway, Spike falls to
+the floor and the Slayer jumps on his chest, straddling him. She pounds him
+repeatedly in the face as the train car's lights go out. When they come back
+on, the Slayer is on her back with Spike straddling her, his hands around her
+throat.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Death is your art. You make
+it with your hands, day after day.
+
+[if !supportEmptyParas] [endif]
+
+Buffy stares at him, her face
+a blank mask.
+
+[if !supportEmptyParas] [endif]
+
+The Slayer struggles beneath
+Spike.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+That final gasp. That look of
+peace. Part of you is desperate to know: What's it like? Where does it lead
+you? And now you see, that's the secret. Not the punch you didn't throw or the
+kicks you didn't land. Every Slayer... has a death wish.
+
+[if !supportEmptyParas] [endif]
+
+Spike grips the Slayer's head
+between his hands and twists violently, snapping her neck and killing her.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to Buffy)
+
+Even you.
+
+[if !supportEmptyParas] [endif]
+
+Spike stands up and faces
+Buffy.
+
+[if !supportEmptyParas] [endif]
+
+In the subway, he walks to
+the end of the car and pulls the emergency cord. As the train grinds to a halt,
+he returns to the dead Slayer and pulls off her black leather coat.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+The only reason you've lasted
+as long as you have is you've got ties to the world... your mum, your brat kid
+sister, the Scoobies. They all tie you here but you're just putting off the
+inevitable.
+
+[if !supportEmptyParas] [endif]
+
+Spike shrugs into the
+Slayer's coat.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Sooner or later, you're gonna
+want it. And the second- the second- that happens...
+
+[if !supportEmptyParas] [endif]
+
+Spike claps his hands
+together inches from Buffy's face.
+
+[if !supportEmptyParas] [endif]
+
+END INTERCUT
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+You know I'll be there. I'll
+slip in... have myself a real good day.
+
+[if !supportEmptyParas] [endif]
+
+He stares intently into
+Buffy's eyes, then steps back.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Here endeth the lesson. I
+just wonder if you'll like it as much as she did.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+(cold)
+
+Get out of my sight. Now.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Oh... did I scare ya? You're
+the Slayer. Do something about it. Hit me. Come on. One good swing. You know
+you want to.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+I mean it.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+So do I. Give it me good,
+Buffy. Do it!
+
+[if !supportEmptyParas] [endif]
+
+The tension is rising between
+them.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Spike...
+
+[if !supportEmptyParas] [endif]
+
+His passion aroused, Spike
+leans in to kiss her. She backs away in horror.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+What the hell are you doing?
+
+[if !supportEmptyParas] [endif]
+
+He grabs Buffy by the arms,
+his words coming in a breathless pant.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Come on. I can feel it,
+Slayer. You know you want to dance.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Say it's true. Say I do want
+to.
+
+[if !supportEmptyParas] [endif]
+
+She shoves him to the ground
+and looks down at him with disgust.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+It wouldn't be you, Spike. It
+would never be you.
+
+[if !supportEmptyParas] [endif]
+
+She tosses the wad of cash at
+him contemptuously.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+You're beneath me.
+
+[if !supportEmptyParas] [endif]
+
+Buffy turns and walks off
+into the night, leaving Spike alone in the dark alley.
+
+[if !supportEmptyParas] [endif]
+
+He begins to gather up the
+money, stifling a sob. As Buffy's words ring down through the years, he becomes
+the same spurned and awkward young man he once was. Her words have hurt him
+more than her blows ever have. He closes his eyes in anguish, takes a deep
+breath, and when he looks up again, only murderous hate remains.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+26    INT.   SPIKE'S CRYPT-
+NIGHT   26
+
+[if !supportEmptyParas] [endif]
+
+Spike throws open an old
+trunk and starts searching through the contents. HARMONY looks at him with
+concern.
+
+[if !supportEmptyParas] [endif]
+
+HARMONY
+
+Spike, what are you doing?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(to himself)
+
+Beneath me... I'll show her.
+
+[if !supportEmptyParas] [endif]
+
+He takes out a
+double-barreled shotgun, cracks the breech and loads two rounds.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Put her six bloody feet
+beneath me. Hasn't got a death wish? Bitch won't need one.
+
+[if !supportEmptyParas] [endif]
+
+FADE OUT
+
+[if !supportEmptyParas] [endif]
+
+[if !supportEmptyParas] [endif]
+
+ACT IV
+
+[if !supportEmptyParas] [endif]
+
+27    INT.   SPIKE'S CRYPT-
+NIGHT   27
+
+[if !supportEmptyParas] [endif]
+
+Spike is gathering up his
+things, preparing to go after Buffy. Harmony is worried for him.
+
+[if !supportEmptyParas] [endif]
+
+HARMONY
+
+Okay, I'm trying to be
+supportive here so don't drive a stake through my heart like last time, but you
+can't kill Buffy. She's the Slayer. She is so gonna kick your ass.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+I've got two barrels here
+that'll prove you wrong.
+
+[if !supportEmptyParas] [endif]
+
+HARMONY
+
+I knew you'd take this
+personally. You are so sensitive! How are you going to kill her? Think! The
+second you even point that thing at her, you're gonna be all ahhh!
+
+[if !supportEmptyParas] [endif]
+
+She holds her hand to her
+head in mock pain.
+
+[if !supportEmptyParas] [endif]
+
+HARMONY
+
+And then you'll get
+bitch-slapped up and down Main Street unless she's had enough and just stakes
+you!
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Sure, it'll hurt like hell
+for about two hours...
+
+[if !supportEmptyParas] [endif]
+
+He grabs Harmony by the neck
+and twists. She gasps in pain.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+But she'll be dead just a little
+longer than that.
+
+[if !supportEmptyParas] [endif]
+
+He tosses Harmony aside and
+runs out.
+
+[if !supportEmptyParas] [endif]
+
+HARMONY
+
+Fine! But don't come crying
+to me when you fail. You couldn't kill her before you got the chip. You had
+plenty of chances!
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+28    EXT.   SPANISH-STYLE
+TAVERN (1998)- NIGHT 28
+
+[if !supportEmptyParas] [endif]
+
+Drusilla and Spike are
+arguing.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+Why can't you kill her?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+You're the one who keeps
+bringing her up!
+
+[if !supportEmptyParas] [endif]
+
+TITLE CARD: South America,
+1998
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+I haven't said a word about
+the bloody Slayer since we left California. She's on the other side of the
+planet, Dru!
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+But you're lying! I can still
+see her floating all around you, laughing. Why? Why won't you push her away?
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+But I did, pet. I did it for
+you. You keep punishing me. Carrying on with creatures like this.
+
+[if !supportEmptyParas] [endif]
+
+Pull back to reveal a CHAOS
+DEMON standing nearby, holding a beer. He's tall with antlers that drip and
+ooze.
+
+[if !supportEmptyParas] [endif]
+
+CHAOS DEMON
+
+Okay, you guys obviously have
+a thing going on here.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+I have to find my pleasures, Spike.
+You taste like ashes.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+(re: demon)
+
+So this is my fault now?
+
+[if !supportEmptyParas] [endif]
+
+CHAOS DEMON
+
+(to Spike)
+
+I didn't know she was seeing
+somebody. (off Spike's look) I should take off.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Yeah, why don't you do that?
+
+[if !supportEmptyParas] [endif]
+
+The demon blows a kiss to
+Drusilla, then walks off.
+
+[if !supportEmptyParas] [endif]
+
+DRUSILLA
+
+You can't blame the ghoul,
+Spike. You're all covered with her. I look at you... all I see is the Slayer.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+29    INT.   SUMMERS HOME-
+JOYCE'S ROOM- NIGHT  29
+
+[if !supportEmptyParas] [endif]
+
+Buffy enters to find her
+mother packing a suitcase.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Hey, I put together that
+grocery list for you.
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+Oh, great. Thanks, hon.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Are you okay?
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+I'm fine. Have you seen my
+conditioner?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Did you look under the sink?
+
+[if !supportEmptyParas] [endif]
+
+Joyce realizes that's where
+it is and goes to retrieve it.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+Where are you going?
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+Oh, I was hoping to put this
+off but... you know the nothing that I've been dealing with the last couple of
+weeks? It might not be nothing.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+What is it?
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+I'm staying overnight at the
+hospital for observation. I'm getting a CAT scan.
+
+[if !supportEmptyParas] [endif]
+
+Buffy doesn't know what to
+say. Joyce is quick to reassure her.
+
+[if !supportEmptyParas] [endif]
+
+JOYCE
+
+It's only one night and they
+say even if there is something, it's still very early if they didn't see it
+before. I'm going to be fine.
+
+[if !supportEmptyParas] [endif]
+
+Buffy puts on a brave smile
+for her mother's sake.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+I know you will.
+
+[if !supportEmptyParas] [endif]
+
+CUT TO:
+
+[if !supportEmptyParas] [endif]
+
+30    EXT.   SUMMERS HOME- BACK
+PORCH- NIGHT    30
+
+[if !supportEmptyParas] [endif]
+
+The back door opens and Buffy
+walks out and sits down on the back steps. She is terrified for her mother, her
+eyes brimming with tears. She puts her head in her lap and sobs uncontrollably.
+
+[if !supportEmptyParas] [endif]
+
+Spike watches her from the
+bushes, then moves forward, striding purposefully toward her, gun at his side.
+He raises the gun and cocks it.
+
+[if !supportEmptyParas] [endif]
+
+Buffy looks up at the sound,
+her face wet with tears.
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+What do you want now?
+
+[if !supportEmptyParas] [endif]
+
+Spike is about to pull the
+trigger when he sees her tears and through them, her pain. His rage vanishes in
+an instant.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+What's wrong?
+
+[if !supportEmptyParas] [endif]
+
+BUFFY
+
+I don't want to talk about
+it.
+
+[if !supportEmptyParas] [endif]
+
+Spike lowers the gun.
+
+[if !supportEmptyParas] [endif]
+
+SPIKE
+
+Is there something I can do?
+
+[if !supportEmptyParas] [endif]
+
+Buffy says nothing, the
+reality of her mother's situation hitting her like a steel weight, overcoming
+her.
+
+[if !supportEmptyParas] [endif]
+
+Spike sits down next to her
+and tentatively pats her back, trying to comfort her. She lets him.
+
+[if !supportEmptyParas] [endif]
+
+Pull back on the two of them,
+sitting together, side by side.
+
+[if !supportEmptyParas] [endif]
+
+FADE TO BLACK
+
+[if !supportEmptyParas] [endif]
+
+[if !supportEmptyParas] [endif]
+
+END
+
+Buffy the Vampire Slayer
+
+Fool for Love 
+
+[if !supportEmptyParas] [endif]
+
+Buffy the Vampire Slayer
+
+Fool for Love 
+
+[if !supportEmptyParas] [endif]
+
+ 38
+
+[if !supportEmptyParas] [endif]
+
+[if !supportEmptyParas] [endif]
+
+            37
+
+[if !supportEmptyParas] [endif]
+
+
+
+
+[an error occurred while processing this directive]
+
+

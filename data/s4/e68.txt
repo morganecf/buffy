@@ -1,0 +1,3035 @@
+
+[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]
+   A New Man - Buffy Episode 68 Transcript
+   
+    
+   
+[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>Jim</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
+  <o:Created>2000-02-02T09:14:00Z</o:Created>
+  <o:LastSaved>2000-02-02T09:14:00Z</o:LastSaved>
+  <o:Pages>20</o:Pages>
+  <o:Words>8200</o:Words>
+  <o:Characters>46745</o:Characters>
+  <o:Company>SMG Inc.</o:Company>
+  <o:Lines>389</o:Lines>
+  <o:Paragraphs>93</o:Paragraphs>
+  <o:CharactersWithSpaces>57406</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif][if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]
+
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 134676480 16 0 131072 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h2
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	color:#000099;}
+a:link, span.MsoHyperlink
+	{color:#0000EE;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 66.0pt 1.0in 66.0pt;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+
+
+
+
+
+
+
+Buffy
+Episode #68: "A New Man" Transcript
+
+Written by Jane Espenson 
+
+
+
+
+
+
+
+
+
+
+Disclaimer: This transcript is done to give the
+poor people that lost their WB station this fall a way to keep up with the
+series, not for profit and no infringement of any rights was intended.
+
+
+
+
+
+
+
+
+
+
+[if !supportEmptyParas] [endif]
+
+~~~~~~~~~~ Prologue ~~~~~~~~~~~~
+
+[if !supportEmptyParas] [endif]
+
+Fade in to room 214 in Stevenson Hall.  It is night. Soft music is playing. Interior is dark except for
+Buffy's bedside lamp, and Riley and Buffy can be seen lying on her bed, above
+the covers (fully dressed), but to say they were only "making out"
+would be like saying the sun is only kinda bright. You hardly need to hop to
+reach the conclusion they're headed for.
+
+[if !supportEmptyParas] [endif]
+
+Riley: (between kisses) We're not expecting anyone, are we?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Willow said she was going to be at the science library all
+night.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Is that right?
+
+[if !supportEmptyParas] [endif]
+
+They resume.  On the brink
+of Steven Bochco territory, Riley slips his hand up the back of Buffy's shirt
+and begins to lift it but Willow pisses off most of the male viewers, as well
+as some of the female viewers, by barging into the room, breaking the mood.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Uh, apparently not.
+
+[if !supportEmptyParas] [endif]
+
+Buffy stands up and straightens her shirt.
+
+[if !supportEmptyParas] [endif]
+
+Willow: (worried) We got trouble.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (serious) What is it?
+
+[if !supportEmptyParas] [endif]
+
+Willow: I was in the rec room. 
+It came through the window.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Vampire?
+
+[if !supportEmptyParas] [endif]
+
+Willow: Vampires don't breathe fire.
+
+[if !supportEmptyParas] [endif]
+
+Cut to hallway, first floor. 
+Buffy, Willow, and Riley round the corner.  Buffy is carrying a rifle-size crossbow.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I should call for backup.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: No time.
+
+[if !supportEmptyParas] [endif]
+
+She hands him the crossbow and motions him down the adjacent hall
+and he splits from them towards the other door into the rec room. Buffy arms
+herself with a stake from her bag.  She
+does not look happy as she and Willow head for the door.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: We have to make this fast. 
+I have better things to do tonight than kill.
+
+[if !supportEmptyParas] [endif]
+
+Opens the door and steps inside the rec room which is in total
+darkness.  A second later the lights
+come up and we and Buffy see that it is a surprise party for her 19th birthday
+(says the large banner hanging across the ceiling) and a crowd of people
+yelling:
+
+[if !supportEmptyParas] [endif]
+
+Everybody: SURPRISE!!!
+
+[if !supportEmptyParas] [endif]
+
+Which Buffy is and quickly hides her stake.  Riley rushes in through the door on the
+other side of the room, but attention is on Buffy so he hides the crossbow
+without anybody noticing it. In the crowd we see Xander Harris, Anya, Rupert
+Giles, and several other faces (we might recognize as extras from previous
+seasons).
+
+[if !supportEmptyParas] [endif]
+
+Willow: (smiling) Guess you won't be killing anything tonight,
+after all.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (sly grin) Don't be so sure.
+
+[if !supportEmptyParas] [endif]
+
+Wolf's howl.  Opening
+credits and theme playing.
+
+[if !supportEmptyParas] [endif]
+
+~~~~~~~~~~ Part One ~~~~~~~~~~
+
+[if !supportEmptyParas] [endif]
+
+Fade in to the party, well on its way.  The table is lined with cake, snacks, punch, etc. Pan to Giles,
+Xander, and Anya gathered around the soccer table.  Giles has a paper plate with cake and a cup of punch. He's
+talking around a mouthful of cake as Xander and Anya listen to him.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Yeah, this is a lively space.  It's like the activity room we had at public school.
+
+[if !supportEmptyParas] [endif]
+
+Two male students move in on the soccer table and Giles picks up
+his cup and steps away.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Sorry (chuckles)  I,
+uh, one time I, uh, I was up to a little bit of a prank with the dart board--
+
+[if !supportEmptyParas] [endif]
+
+Anya: (to Xander) I'm bored. 
+Let's eat.
+
+[if !supportEmptyParas] [endif]
+
+Xander: (sternly) Anya, we've talked about this.
+
+[if !supportEmptyParas] [endif]
+
+Anya: (to Giles) I'm sorry, that was rude.  Please continue your story. (seems proud of
+herself as she looks to Xander)
+
+(then quietly) Hopefully it involves treacle and a headmaster.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (not amused) Go and eat.
+
+[if !supportEmptyParas] [endif]
+
+Anya hurries off and Xander gives Giles an apologetic look before
+following.
+
+[if !supportEmptyParas] [endif]
+
+Dissolve to later.  Giles is
+sitting in a chair against the wall, alone, looking a bit uncomfortable as the
+party continues around him.  Willow
+walks up to him with another paper plate of cake.
+
+[if !supportEmptyParas] [endif]
+
+Willow: (handing him the plate) Giles!  Hi.  Are you having a good
+time? 
+
+[if !supportEmptyParas] [endif]
+
+Giles: (standing) Yes. Yes. 
+There's, uh, a lot of new faces here, aren't there?
+
+[if !supportEmptyParas] [endif]
+
+Willow: Yeah.  Mostly kids
+from the dorm. A couple of Riley's friends.
+
+[if !supportEmptyParas] [endif]
+
+Buffy walks up with Riley.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (happy) Hi, Giles.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Buffy.  Happy
+Birthday.
+
+[if !supportEmptyParas] [endif]
+
+He balances his plate and cup to let her hug him.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Thank you.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (smiling) Nineteen. 
+It's hard to believe, isn't it?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: There's somebody here I want you to meet.  Uh, this is Riley Finn (he steps forward and
+Giles needs to put down his plate to shake his hand) . . .. my boyfriend.
+
+[if !supportEmptyParas] [endif]
+
+Riley: (as Giles gives Buffy a surprised look) It's very nice to
+meet you, Mr. Giles.  Did you help plan
+this?  It was quite a surprise.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (to Riley) The first of many.  Uh, been . . . dating long?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Giles was the librarian at my high school.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Ah, I've seen the library. 
+It's gone down hill since you left.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (chuckling) Yes. 
+I-I-I'm embarrassed to say that I actually miss it at times.
+
+[if !supportEmptyParas] [endif]
+
+Riley: So, you're retired?
+
+[if !supportEmptyParas] [endif]
+
+Giles: (frowns) I'm sorry?
+
+[if !supportEmptyParas] [endif]
+
+Riley: Or . . . you're working somewhere else now?
+
+[if !supportEmptyParas] [endif]
+
+Giles: (slightly embarrassed) Well, not, uh . . . sort of between
+projects, uh, right now, uh,  it's a
+personal--
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Oh! Oh, look.  Giles
+has no cake.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Oh, here.  Here, I'll
+get you a piece.
+
+[if !supportEmptyParas] [endif]
+
+He hurries off to make the cake run. Willow must have already moved
+on because Buffy and Giles are alone. Giles still seems to be recovering.
+
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Oh, he's just nervous. 
+But this is so nice. Having everyone together for my birthday. Of
+course, you could smash in all my toes with a hammer and it will still be the
+bestest Buffy Birthday Bash in a big long while.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Right.  A-a-actually,
+Willow a-a-and Xander did all the planning. I'm not sure I would have gone with
+the surprise party.  (smiles) You know,
+you have enough things jumping out at you in the dark.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Professor Walsh says that adrenaline is like exercise but
+without the exorbitant gym fees.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (a beat) Very whitty.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: You should meet her. 
+She's absolutely the smartest person I've ever met.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (feeling a bit slighted) Perhaps we should have invited
+Professor Walsh to the party? (takes of sip of punch)
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Oh, no.  I mean,
+she's like forty. She's got better things to do than hang out with a bunch of
+kids.
+
+[if !supportEmptyParas] [endif]
+
+Giles feels even more out of place, but Buffy doesn't pick up on
+his discomfort. Riley returns with another piece of cake and hands it to him.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Here you go, sir.
+
+[if !supportEmptyParas] [endif]
+
+On Giles' expression cut to--
+
+[if !supportEmptyParas] [endif]
+
+--exterior of Harris home, next day.  A plain looking one-story house. 
+Cut to interior of the basement: abode de Xander. Spike is seen walking
+back and forth as if looking for something to pack in his bag, cigarette in his
+mouth. Xander is standing on the other side of the room and Anya is lounging on
+the recliner, browsing a comic book.
+
+[if !supportEmptyParas] [endif]
+
+Xander: (impatiently) You own nothing. This shouldn't be taking so
+long.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Hang on. Let a fella get organized.
+
+[if !supportEmptyParas] [endif]
+
+Spike sees a radio and picks it up.
+
+[if !supportEmptyParas] [endif]
+
+Xander: That's my radio!
+
+[if !supportEmptyParas] [endif]
+
+Spike: And you're what? Shocked and disappointed? I'm evil!
+
+[if !supportEmptyParas] [endif]
+
+Anya: (putting comic aside) So, what kind of place are you looking
+for?
+
+[if !supportEmptyParas] [endif]
+
+Spike: I don't know.  Maybe
+a crypt. Some place, you know, dark and dank. But not as dark and dank as this.
+
+[if !supportEmptyParas] [endif]
+
+Anya: Heh.  It's pretty
+depressing, isn't it?
+
+[if !supportEmptyParas] [endif]
+
+Spike: I've known corpses with a fresher smell. In fact, I've been
+one. (flicks is cigarette away)
+
+[if !supportEmptyParas] [endif]
+
+Xander: That's it!  Let's
+go.
+
+[if !supportEmptyParas] [endif]
+
+Xander marches to him about ready to drag his ass out.
+
+[if !supportEmptyParas] [endif]
+
+Anya: Wait. (gets up and unplugs the tall three-head lamp and
+brings it over to him) I want to give you something for your new place.
+
+[if !supportEmptyParas] [endif]
+
+Xander: That's my lamp.
+
+[if !supportEmptyParas] [endif]
+
+Xander takes it back from her and returns it to its original spot.
+
+[if !supportEmptyParas] [endif]
+
+Anya: A gift is traditional. 
+I've read about it.
+
+[if !supportEmptyParas] [endif]
+
+Xander: That's among friends. 
+With bitter enemies we don't give them my lamp.
+
+[if !supportEmptyParas] [endif]
+
+Spike: It's not gonna have electricity anyway.  It's a crypt, remember?
+
+[if !supportEmptyParas] [endif]
+
+Anya: What about running water? A fridge to keep your blood fresh?
+
+[if !supportEmptyParas] [endif]
+
+Spike: (a beat) No.
+
+[if !supportEmptyParas] [endif]
+
+Anya: Well, that's gotta suck. 
+You should just get a hotel room or something.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (considers) Demon girl's got a point.  I need fresh blood.  If I had a few bob for a room with an honor
+bar--
+
+[if !supportEmptyParas] [endif]
+
+Xander: Out!  Before I get
+the Slayer over here to kick your ass out!
+
+[if !supportEmptyParas] [endif]
+
+Spike: (sighs, picks up his long coat) Don't know why she didn't
+come.  Say good-bye, shed a few tears.
+
+[if !supportEmptyParas] [endif]
+
+Xander: Well, she has an appointment with somebody who's actually
+still *scary*!
+
+[if !supportEmptyParas] [endif]
+
+Cut to Professor Walsh's office. Walsh is sitting behind her desk
+and has a serious expression on her face.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: So, the Slayer.
+
+[if !supportEmptyParas] [endif]
+
+Buffy:  Yeah. That's me.
+
+[if !supportEmptyParas] [endif]
+
+Buffy is sitting in front of Walsh's desk, looking a tad nervous,
+with Riley standing slightly behind her left shoulder.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: We thought you were a myth.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Well, you were myth-taken. (smiles but sees that neither are
+gonna laugh and stops)
+
+[if !supportEmptyParas] [endif]
+
+Walsh: And to think all that time you were sitting in my
+class.  Well, most of those times.  I always knew you could do better than a B
+minus. Now I understand your energies were directed in the same places as ours,
+in fact.  It's only our methods that
+differ.  We use the latest in scientific
+technology and state-of-the-art weaponry and you, if I understand correctly,
+poke them with a sharp stick.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Well, it's more effective than it sounds.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: Oh, , I'm, heh, quite sure of that. As I'm just as sure that
+we can learn much from each other.  I'm
+working on getting you clearance to come into the Initiative. I think you'll
+find the results of our operation most impressive. Agent Finn here, alone, has
+killed or captured-- how many is it?
+
+[if !supportEmptyParas] [endif]
+
+Riley: (note of pride) Seventeen. 
+Eleven vampires, six demons.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Oh . . . Wow. (trying to sound impressed) I mean, that's . .
+. seventeen.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: What about you?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Me?
+
+[if !supportEmptyParas] [endif]
+
+Walsh: How many hostiles would you say you've slain?
+
+[if !supportEmptyParas] [endif]
+
+Glancing back and forth between them, Buffy is considering, and
+from her expression we--
+
+[if !supportEmptyParas] [endif]
+
+Cut to Giles's apartment. 
+He's dusting inside one of his book cases.  He stops as he suddenly remembers something.  He holds the feather duster between his
+teeth and takes an old tome from the shelf. 
+He opens it and sits down on a cushion footrest.  He reads then does a calculation with his
+fingers.  He removes the featherduster.
+
+[if !supportEmptyParas] [endif]
+
+Giles: "Third new moon after the . . . nine-hundredth feast of
+Delthrox." Oh, (stands up) crap.
+
+[if !supportEmptyParas] [endif]
+
+Cut to moments later.  Giles
+is at his work desk gathering supplies and putting them in his bag as he talks
+on the phone.
+
+[if !supportEmptyParas] [endif]
+
+Giles: No, we can't wait for her, Willow. The demon Prince Barvain
+is going to rise tonight.  Well-- Where
+is she, exactly?
+
+[if !supportEmptyParas] [endif]
+
+Cut to UC Sunnydale campus. Still daylight.  Buffy and Riley are walking outside
+approaching a large flowing fountain. Riley has a stunned expression on his
+face.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Wow.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Those are my best stories. And I didn't tell you the
+"Buffy breaks her butt" stories.
+
+[if !supportEmptyParas] [endif]
+
+Riley: But you've killed a-- You did the thing with that-- Uh, you
+drowned.  And the snake!  Not to mention the . . daily . . slayage
+of  (pause) Wow.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: It's no big, really. (cheerfully) Hey, who wants ice cream!
+
+[if !supportEmptyParas] [endif]
+
+Riley: Buffy.  When I saw
+you stop the world from, you know, ending . . . I just assumed that was a big
+week for you. Turns out I suddenly find myself . . . needing to know the plural
+of "apocalypse."
+
+[if !supportEmptyParas] [endif]
+
+They've rounded the fountain and continue walking.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Look.  If you've been
+fighting since you were fifteen you'd have a hefty resume' too.
+
+[if !supportEmptyParas] [endif]
+
+Riley: (shocked) Fifteen!?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (winces) I know, "wow."  The point is, that, that we have different amounts of experience.
+You know.  And plus, I do have that
+whole preternatural Slayer strength deal.
+
+[if !supportEmptyParas] [endif]
+
+Riley: (nodding) I've seen. 
+Don't get me wrong. The girls I grew up with could hold their own.  But . . . I'm not even sure I could take
+you.
+
+[if !supportEmptyParas] [endif]
+
+Buffy stops and looks up at him.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: That all depends on your meaning.
+
+[if !supportEmptyParas] [endif]
+
+Riley smiles down at her.
+
+[if !supportEmptyParas] [endif]
+
+Cut to Professor Walsh's office. 
+She is standing behind her desk busy looking over some papers. There is
+a knock on the door.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: Yeah?
+
+[if !supportEmptyParas] [endif]
+
+The door opens and Giles steps inside.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Professor Walsh, I presume. You're hard to find.
+These--these halls are quite the labyrinth. 
+I felt like Theseus and the Minotaur in the . . . labyrinth.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: (a beat) Can I help you with something, Mr. . . . ?
+
+[if !supportEmptyParas] [endif]
+
+Giles: Giles. Rupert. (walks over and offers his hand, Walsh shakes
+it) I'm looking for Buffy Summers.  I'm,
+uh, a friend of hers. And I was her high school librarian.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: I'm sorry, Buffy's not here.  But if I see her . . .
+
+[if !supportEmptyParas] [endif]
+
+Giles is looking at Walsh's framed credentials hanging on the wall.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Buffy's been very influenced by your cause.  She quotes you quite often. (smiles)
+Sometimes she sounds like an introductory textbook herself.
+
+[if !supportEmptyParas] [endif]
+
+Walsh walks past him to put something in the file cabinet next to
+him.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: (returning to her desk) I don't lecture from the text
+book.  But I'm glad she's inspired by
+the material. She's bright.  All she's
+really been lacking is encouragement in the academic sect.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Oh, uh, I think it's best if-if. . . if we let a young
+person find their own strengths. If you lead a child by the hand then they'll
+never find their own footing.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: And if it's true about hiking, ergo, it must be true about
+life.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (removing his glasses to polish them with a handkerchief)
+That's not, uh . . . I'm just saying Buffy is, uh, well she's not the typical
+student. Once you get to know her, she's a very unique girl.  I hope you're not going to push her.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: I think I do know her. 
+And I have found her to be a unique woman.
+
+[if !supportEmptyParas] [endif]
+
+Walsh rounds to the front of her desk to sit in a chair facing him.
+
+[if !supportEmptyParas] [endif]
+
+Giles: "Woman." 
+Of course.  How wrong of me to
+choose my own words.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: She's very self-reliant, very independent--
+
+[if !supportEmptyParas] [endif]
+
+Giles: Exactly!
+
+[if !supportEmptyParas] [endif]
+
+Walsh: --which is not always a good thing. (this causes Giles to
+pause) I think it can be unhealthy to take on adult roles too early. What I
+suspect I'm seeing is a reaction to the absence of a male role model.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (squinting) Absence?
+
+[if !supportEmptyParas] [endif]
+
+Walsh: (standing) Buffy clearly lacks a strong father figure.
+
+[if !supportEmptyParas] [endif]
+
+Giles is speechless.  Walsh
+decides to end the conversation.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: I'm sorry, I have things to do.  I'll tell Buffy her *friend* was looking for her.
+
+[if !supportEmptyParas] [endif]
+
+Walsh moves back behind her desk to continue working and off Giles'
+slighted expression we--
+
+[if !supportEmptyParas] [endif]
+
+Cut to a cemetery at night. 
+Xander and Willow are at Giles' sides. They are walking in a quick pace
+to keep up with him.
+
+[if !supportEmptyParas] [endif]
+
+Willow: This prince/demon guy was supposed to rise at sunset so
+aren't we, like, late?
+
+[if !supportEmptyParas] [endif]
+
+Giles: Of course if I hadn't had to search the globe for our Miss
+Summers and do battle with that harridan. . . .
+
+[if !supportEmptyParas] [endif]
+
+
+Xander: And if you hadn't gotten lost on campus afterwards . . .
+
+[if !supportEmptyParas] [endif]
+
+Giles: Never mind. I'll just have to take care of it myself.  I've vanquished a few demons in my day
+without her. Of course, it wouldn't surprise me if we're entirely too
+late.  Demon on the loose, carnage
+everywhere.
+
+[if !supportEmptyParas] [endif]
+
+They've reached a large mausoleum and step inside through the
+wrought iron gate. Cut to interior shot of them opening the inner door walking
+down the foyer steps.  They see the
+place is in order, except for a lot of cobwebs decorating the walls.
+
+[if !supportEmptyParas] [endif]
+
+Xander: Your better demons will clean up after themselves.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (confused) I don't understand.  (moves to the center of the chamber, scanning with his
+flashlight) Umm, there should be ruptured earth and-and broken stone.  Oh, well, apparently it hasn't happened
+yet.  A bit of luck.
+
+[if !supportEmptyParas] [endif]
+
+Giles sets his bag down on the floor and opens it to begin pulling
+out his supplies.
+
+[if !supportEmptyParas] [endif]
+
+Willow: Or, you know what I bet? I-I bet the Initiative took care
+of it.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Who?
+
+[if !supportEmptyParas] [endif]
+
+Xander: Oh, Riley and his guys. Probably all over it.
+
+[if !supportEmptyParas] [endif]
+
+Willow: Yeah.  It has that
+"too neat" look.  They must
+have cleaned up the place.
+
+[if !supportEmptyParas] [endif]
+
+Giles is looking at them, at a lost.
+
+[if !supportEmptyParas] [endif]
+
+Giles: What?
+
+[if !supportEmptyParas] [endif]
+
+Willow: Oh, they read hot spots. Areas of otherworldy energy.
+(looking around) They must've picked this place up days ago.
+
+[if !supportEmptyParas] [endif]
+
+Giles stands up and faces them.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Stop, both of you. Uh, what, uh . . . What are you talking
+about?  W-what's the Initiative?  What. . . what on earth does it have to do
+with Buffy's new boyfriend?
+
+[if !supportEmptyParas] [endif]
+
+Giles raises the flashlight almost to their faces as Willow and
+Xander exchange a nervous glance.
+
+[if !supportEmptyParas] [endif]
+
+Willow: You know.  I'm sure
+you know.  Riley's one of the commandos.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (exasperated) What?! 
+Well that's marvelous, isn't it? (turns away in a fit) Here I am, spent
+weeks trying, uh, t-to get a single scrap of information about our mysterious
+demon collectors and no one bothers to tell me that Buffy's dating one of
+them?! (faces them) Who else knows?!
+
+[if !supportEmptyParas] [endif]
+
+Xander: No one.  No one else
+knows this. (pauses) Anya, and that's it!
+
+[if !supportEmptyParas] [endif]
+
+Willow: (sheepishly) And Spike.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Ssspike?! Spike knew?
+
+[if !supportEmptyParas] [endif]
+
+Xander: Only the basic stuff. 
+You know, that Riley is a commando and Professor Walsh is in charge.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (furious) Professor Walsh!? 
+That fishwife!?
+
+
+[if !supportEmptyParas] [endif]
+
+Willow: You know, she's actually not that bad once you get to--
+(sees Giles' look) So, th-the demon is probably a little late. W-we'll just,
+you know--
+
+[if !supportEmptyParas] [endif]
+
+Giles: Oh, forget it. Go on. 
+You two clear off.  I'll just
+stay a little longer just in case.
+
+[if !supportEmptyParas] [endif]
+
+Willow: You sure? 'Cause we can stay.
+
+[if !supportEmptyParas] [endif]
+
+Giles: No. Go.
+
+[if !supportEmptyParas] [endif]
+
+Eager to escape his wrath, Willow and Xander beat feet out. Giles
+sits down on a stone bench in silence for a few seconds.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Who am I kidding?
+
+[if !supportEmptyParas] [endif]
+
+He stuffs his supplies back in his bag and hurries to the door.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (muttering) Nothing is gonna  happen.
+
+[if !supportEmptyParas] [endif]
+
+He leaves closing it behind him and all is quiet for a moment.  Then we see the back of a man wearing a gray
+trench coat step into the frame looking at the closed door.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: I wouldn't say that. 
+(cut to front closing shot of Ethan Rayne) I wouldn't say that at all.
+In fact, Ripper, old mate, I'd say something rather interesting was about to
+hap--
+
+[if !supportEmptyParas] [endif]
+
+Shot of the door opening again and Giles shining the flashlight
+inside.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Did someone--?
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (caught) Oh, bugger! I thought you'd gone!
+
+[if !supportEmptyParas] [endif]
+
+~~~~~~~~~~~ Part Two ~~~~~~~~~~~
+
+[if !supportEmptyParas] [endif]
+
+Just as we left things. Giles is stepping down to Ethan's level. He
+doesn't look happy to see the other English man.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Ethan Rayne.  You
+have no idea how much thrashing you is gonna improve my day.
+
+[if !supportEmptyParas] [endif]
+
+Ethan tries to bolt past Giles, but Giles clubs him in the gut with
+the flashlight and Ethan falls forward. 
+Giles jerks him back up and is ready pummel him, raising a fist. Ethan
+has his hands up to ward off attack.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (scared) No, no, no! Wait! Hang on! You-you can beat the
+crap out of me. Go ahead, I can't stop you! (Giles cocks back his fist) Or-or
+you can listen to what I have to say. 
+Find out what's going on.
+
+[if !supportEmptyParas] [endif]
+
+Giles: What are you talking about?
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Something bad is happening. 
+Bad for both of us.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Bad for you. (cocks fist again)
+
+[if !supportEmptyParas] [endif]
+
+Ethan: No, no, no! Listen! 
+You have to listen! You're going to need time to prepare!
+
+[if !supportEmptyParas] [endif]
+
+>From Giles' "ready to kick Ethan's ass" expression
+we--
+
+[if !supportEmptyParas] [endif]
+
+Cut to a bar.  Dimly lit,
+slight honky tonk feel to it.  Juke box
+playing music in the background.  Ethan
+and Giles are sitting at a booth as a waitress is serving them their draft
+beers. Ethan is removing his coat.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Brilliant!  Now isn't
+this more fun than kicking my ass?
+
+[if !supportEmptyParas] [endif]
+
+Giles: No.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Oh.  It's more fun
+for me.
+
+[if !supportEmptyParas] [endif]
+
+Waitress moves away.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (raising his glass) Just tell me what you want to tell me.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (mock hurt) Oh, so crass. 
+We used to be friends, Ripper. 
+When did all that fall apart?
+
+[if !supportEmptyParas] [endif]
+
+Giles: The same time you started to worship chaos.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Oh, religious intolerance. 
+Sad, there.  I mean, just look at
+the Irish troubles. (annoyed, Giles starts to rise to leave) Oh, hang on, I'll
+tell ya. (Giles settles down again) Something happening in the darkworlds. It's
+always been rumors out there but . . . only one thing's coming through clear..
+That something's harming demons and it's not the Slayer. Know anything about
+it?
+
+[if !supportEmptyParas] [endif]
+
+Giles: (takes a drink) What are they saying?
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Heh, you know demons. It's all exaggeration and blank
+verse.  "Pain as bright as
+steel" things like that. They're scared. There's something called
+"314" that's got them scared most of all. The kind of scared that
+turns to angry. I know we're not particularly fond of each other, (Giles
+chuckles scoffingly) Rupert. But we are a couple of old mystics. This knew
+outfit, it's blundering into new places it doesn't belong. It's throwing the
+worlds out of balance. And that's way beyond chaos, mate. We're headed quite
+literally for one hell of a fight.
+
+[if !supportEmptyParas] [endif]
+
+Cut to close up of Buffy throwing jabs at the camera.  High shot: we see she is sparring with Riley
+on workout mats, circling each other. 
+He's dressed in sweats and a T-shirt. 
+Buffy's in a white long sleeve shirt and blue jeans, with a scarf
+wrapped over her long flowing hair. She throws a few more jabs and he blocks
+them and counters with a one-two combo Buffy easily ducks under.  They continue to circle.  Buffy launches three roundkicks in quick succession.
+He blocks the first two then sidesteps the third gets up behind her and
+wrapping his arms around her.
+
+[if !supportEmptyParas] [endif]
+
+Riley: (smiling) Are you pulling back?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (grinning) Are you?
+
+[if !supportEmptyParas] [endif]
+
+Riley: (shrugs) Maybe a little.
+
+[if !supportEmptyParas] [endif]
+
+Buffy suddenly spins out of the hold and Riley is thrown off his
+feet, spinning before hitting the mat on his back. He looks up. Buffy is
+smiling down at him.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Maybe a little, too.
+
+[if !supportEmptyParas] [endif]
+
+Riley smiles and kicks himself to his feet.  They begin to circle again.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I'll go all out if you will.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Are you sure?
+
+[if !supportEmptyParas] [endif]
+
+Riley: (serious) Here we go.
+
+[if !supportEmptyParas] [endif]
+
+Riley steps in with a combination of hard swinging hooks that Buffy
+is quick to block.  She ducks under his
+last punch and captures his legs in a scissor hold and takes him down with her.
+Riley quickly rolls out of her legs and scrambles to his feet.  Buffy is quicker and is waiting for
+him.  She hits him in the chest with a
+side kick that launches him into the air. 
+He flies across the room over a gymnastic pommel horse and lands on a
+thick fall cushion.  The impact upsets
+another large cushion leaning against the wall and it falls on top of him.
+
+[if !supportEmptyParas] [endif]
+
+Cut to Buffy.  Shocked
+expression at what she did.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Riley!
+
+[if !supportEmptyParas] [endif]
+
+She runs over to him and tosses the cushion off of him.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Are you hurt?
+
+[if !supportEmptyParas] [endif]
+
+Riley sits up, hand on his chest. 
+He looks winded.  Definitely
+humbled.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I, uh, (groans) I don't think so.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: I'm so sorry. I-I didn't mean to, uh--
+
+[if !supportEmptyParas] [endif]
+
+Riley: (sounds unsure) It's fine. 
+I'm good.
+
+[if !supportEmptyParas] [endif]
+
+Riley offers a slight grin and Buffy seems to feel better.
+
+[if !supportEmptyParas] [endif]
+
+Cut back to Giles and Ethan. 
+Everything is almost the same except that their table is cluttered with
+glasses and shot glasses, mostly empty, and they are both stinky drunk. They
+seem on the verge of passing out.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (faltering voice) You know what gets me?  This is what gets me. Twenty years I've been
+fighting demons.  Maggie Walsh and her
+Nancy-ninja boys come in and six months later, demons are pissing themselves
+with fear. They never even noticed me.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (drunkenly) Who's Maggie Walsh?
+
+[if !supportEmptyParas] [endif]
+
+Giles: Oh, she's awful. She said I was an absent male role model.
+Absent my ass. I'm twice the man she is.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (OS) You know you're really very attractive.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Hm?
+
+[if !supportEmptyParas] [endif]
+
+He sees that Ethan is talking to the waitress, who is serving them
+another round.  He starts writing
+something on a piece of paper.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Here's my name and number. (hands it to her) You give me a
+call, I'll show you a good time.
+
+[if !supportEmptyParas] [endif]
+
+Waitress: (unimpressed) Yeah, thanks.
+
+[if !supportEmptyParas] [endif]
+
+She departs.
+
+[if !supportEmptyParas] [endif]
+
+Giles: We gotta face it, we've changed.  We'll not you . . . you're still sadistic and self-centered.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (toasting himself) Here's to me.
+
+[if !supportEmptyParas] [endif]
+
+Giles: The world has past us by. 
+Someone snuck in and left us a couple of has-beens in our place. This
+Initiative, I mean, their methods may be causing problems, but they're getting
+the job done. Where am I?  I'm an
+unemployed librarian with a tendency to get knocked on the head.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Well, we won't have to worry about that anymore now,
+mate.  (serious tone) When you went to
+the loo I slipped a small pellet of poison in your drink.  You'll be dead in an hour. 
+
+[if !supportEmptyParas] [endif]
+
+Dramatic pause as the words sink in for Giles and he seems to
+sober.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Just kidding!
+
+[if !supportEmptyParas] [endif]
+
+They both burst out laughing, blood alcohol returning to their high
+intoxicated levels.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (calming down) I'm gonna feel like hell in the morning.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Relax.  Enjoy the
+night. We're just a couple of sorcerers. 
+The night is still our time. Time of magic.
+
+[if !supportEmptyParas] [endif]
+
+They raise their glasses in a toast.
+
+[if !supportEmptyParas] [endif]
+
+Giles: To magic.
+
+[if !supportEmptyParas] [endif]
+
+Cut to Tara's dorm room: dorm unknown, room number unknown.  It is very dim. The walls are black and
+strewn with a string of white Christmas lights that give the place a mystical
+look.  Tara is kneeling on the floor
+pouring white powder, sand, or salt in the design of a four-point star in a
+circle. Willow is holding a red rose.
+
+[if !supportEmptyParas] [endif]
+
+Willow: (sitting across from her) I'm glad you wanted to get
+together. I know it's late.
+
+[if !supportEmptyParas] [endif]
+
+Tara: Thanks. (a beat) I was happy you called.
+
+[if !supportEmptyParas] [endif]
+
+Willow places the rose on top of the circled star.
+
+[if !supportEmptyParas] [endif]
+
+Willow: We'll start out slow.
+
+[if !supportEmptyParas] [endif]
+
+Tara sits and Willow reaches her hands out to her and the blonde
+girl links hands with her.
+
+[if !supportEmptyParas] [endif]
+
+Tara: Okay.
+
+[if !supportEmptyParas] [endif]
+
+Willow closes her eyes and Tara follows suit.  They sit there for a few seconds in silence.
+
+[if !supportEmptyParas] [endif]
+
+Tara: Willow?
+
+[if !supportEmptyParas] [endif]
+
+Willow: Yeah?
+
+[if !supportEmptyParas] [endif]
+
+Tara: (eyes opening) Start out slow doing what?
+
+[if !supportEmptyParas] [endif]
+
+Willow opens her eyes.
+
+[if !supportEmptyParas] [endif]
+
+Willow: (in a soft voice) Oh. We're gonna float the rose.  Then use the majiks to pluck the petals off,
+one at a time. It's a test of synchronicity. 
+Our minds have to be perfectly attuned to work as a single delicate
+implement.
+
+[if !supportEmptyParas] [endif]
+
+Tara: (a moment, then smiles) Cool.
+
+[if !supportEmptyParas] [endif]
+
+Willow: And it should be very pretty.
+
+[if !supportEmptyParas] [endif]
+
+They hold hands again and close their eyes. They are in deep concentration
+and a bright light comes to life on the circled star. At the same time a soft
+breeze sweeps through the room and the rose starts to shudder.  Slowing it begins to rise.  When it is shoulder level with the girls
+they open their eyes and look at it. They release each other's hands.
+
+[if !supportEmptyParas] [endif]
+
+Tara: (softly) It worked.
+
+[if !supportEmptyParas] [endif]
+
+Willow: (softly) Now for the hard part.  The petals.
+
+[if !supportEmptyParas] [endif]
+
+They begin to concentrate again looking at the rose when the rose
+suddenly shoots off across the room. 
+Surprised, they stand and watch as the rose ricochets off the walls a
+few times and have to duck to avoid it. 
+It finally comes straight down on the four point star and we see that it
+is petalless but smoking.
+
+[if !supportEmptyParas] [endif]
+
+Willow: (shocked) What the heck was that?
+
+[if !supportEmptyParas] [endif]
+
+Tara: I don't know, but, uh, the petals are off. (chuckling)
+
+[if !supportEmptyParas] [endif]
+
+Cut to exterior shot of Giles' apartment building, morning.  Giles' Citroen is parked by the curb. Cut to
+interior shot, Giles' loft.  An alarm
+buzzer goes off and we see a body moving under a sheet on the bed and the alarm
+is shut off. Dissolve to shot of panted legs walking down the stairs.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (yawning) I feel like hell in the morning.
+
+[if !supportEmptyParas] [endif]
+
+We see Giles reach the landing and stop in front of a small mirror
+hanging on the wall while he releases a big yawn, stretching his arms. We see
+that Giles is a demon! Light brownish tan skin, with long horns sprouting from
+the sides of his forehead, curving back and around his really long, hairy,
+ears, ending in sharp points next to his cheeks. As he yawns he shows us a set
+a fangs much like a vampire's. He smacks his lips when the yawn is done and
+finally opens his sleepy eyes and sees his new form for the first time.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (eyes popping wide open) Uh! Wha-- Wha--(touching his horns)
+No!
+
+[if !supportEmptyParas] [endif]
+
+Leaning closer to the mirror he puts a hand on the wall and his now
+clawed hand goes through it.  Giles is
+in a state of disbelief as he pulls his hand back out and absently rests it on
+the stairs' banister.  It's instantly
+rip from the railing. He looks at what he did.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Damn!
+
+[if !supportEmptyParas] [endif]
+
+He takes the final steps down to the first floor and throws the
+banister down, where it hits a chair and shatters it. He's looking around,
+confused, then is struck by a thought.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Ethan.
+
+[if !supportEmptyParas] [endif]
+
+Giles' voice has taken on a low gravelly sound.  He goes to pick up the phone and it shatters
+in his hand before he can lift it to his ear. He drops it and moves to pick up
+his shirt from the floor.  He struggles
+to get into the sleeves and when he tries to shrug into it his now jutting,
+ridged, spine rips it down the middle.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (grimacing) Oh, and I liked that shirt!
+
+[if !supportEmptyParas] [endif]
+
+He trades the shredded shirt for a thick flannel blanket and wraps
+it around his shoulders as he heads for the door.  He grabs the handle and the door comes off its hinges, but Giles
+is beyond caring at this point and steps outside.
+
+[if !supportEmptyParas] [endif]
+
+Cut to Buffy. She and Willow are having breakfast in the Rocket
+Cafe on campus. We haven't seen Buffy in this good a mood in such a long time
+it's almost scary. She is happily stacking her pancakes on her plate.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: I like pancakes 'cause they're stackable. (looks at Willow's
+plate) Ooo, and waffles 'cause you can put things in the little holes if you
+wanted to.
+
+[if !supportEmptyParas] [endif]
+
+Willow: (laughing) You should always have a new boyfriend.  You're so much fun right now.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Hey.  I didn't hear
+you come in last night. Where were you?
+
+[if !supportEmptyParas] [endif]
+
+Willow: (quickly) The chem lab, by myself. (a beat) I-I was trying
+this new spell; floating a rose, when all of a sudden (motions with fork) zing,
+zing, zing! Like all over the room.  It
+was like a rose-based missile.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Yikes.
+
+[if !supportEmptyParas] [endif]
+
+Willow: I know.  I think
+there's something out there. I-I felt this presence.. This dark majiks energy
+blocking the spell. It's new.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Someone else doing majiks?
+
+[if !supportEmptyParas] [endif]
+
+Willow: Maybe.  If so, it's
+someone pretty powerful.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Hmm.  I'll tell Giles
+about it. Or maybe I'll tell Maggie. She seemed kind of interested in learning
+the mystical side of the whole demon hunting biz.
+
+[if !supportEmptyParas] [endif]
+
+Willow: Tell Giles. He's feeling a little hurt right now. (Buffy
+frowns in question) How come you never told him about Riley being a commando?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: I did. (Willow shakes her head) I didn't?
+
+[if !supportEmptyParas] [endif]
+
+Willow: He says no.  He's
+feeling neglected and out-of-the-loopy.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Well, I didn't at first because Riley said not to. And . .
+and then "meow" cat out of the bag and I-I guess I just forgot that
+he didn't know. (cheerfully) I'll make it up to him when I see him.  Tomorrow. 
+I'm spending today with Riley.
+
+[if !supportEmptyParas] [endif]
+
+Willow: Oh, yeah.  I forgot
+that's what you always do on the days when the earth rotates.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (smiling) It's just going so well, right now.  I think. 
+(stops smiling) I hope. (grins sheepishly) I sort of kicked him across
+the room last night.
+
+[if !supportEmptyParas] [endif]
+
+Willow: Uh, that's not good.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Well, we were sparring and he said not to hold back.  And he's a little dented.  But he said he was okay with it and I think
+he's okay with it --do-do you think he's okay with it?
+
+[if !supportEmptyParas] [endif]
+
+Willow: I'm sure he is.  I
+mean, if he's not . . . you know, you had to do it. He's right.  You can't walk around pretending you're less
+than you are. It wouldn't be right for you to hold back.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Right. (frowns)
+
+[if !supportEmptyParas] [endif]
+
+Willow: What?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (a beat) I held back a little.
+
+[if !supportEmptyParas] [endif]
+
+Cut to Xander's basement. 
+Giles quietly opens the door and steps inside.  He walks under the clothesline of drying underwear and sees
+Xander sleeping in bed.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (surprised) Still asleep? (sees the clock) It's ten thirty
+in the morning.
+
+[if !supportEmptyParas] [endif]
+
+He moves forward and leans down to gently shake the bed.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (whispering) Xander. 
+Xander, wake up.
+
+[if !supportEmptyParas] [endif]
+
+Groggily, Xander turns on his side and looks over his shoulder at
+him, eyes still closed.
+
+[if !supportEmptyParas] [endif]
+
+Xander: (sleepily) Mom?
+
+[if !supportEmptyParas] [endif]
+
+Giles: No, it's not mum. Now, when you look at me . . . you may be
+a little alarmed but there's no need, it-it's me. Giles. Now, Ethan has turned
+me into a demon and I need your help.
+
+[if !supportEmptyParas] [endif]
+
+Xander slowly opens his eyes.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Hello.  Yes, it's me.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (Xander's POV: speaking a demon language)
+
+[if !supportEmptyParas] [endif]
+
+Xander: AHHH! 
+
+[if !supportEmptyParas] [endif]
+
+Xander jumps out of bed and backs away.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Xander, listen! 
+Don't you understand me?
+
+[if !supportEmptyParas] [endif]
+
+Giles: (Xander's POV: speaking demon language)
+
+[if !supportEmptyParas] [endif]
+
+Xander: (shouting) Demon! Demon!
+
+[if !supportEmptyParas] [endif]
+
+Giles: (Xander's POV: speaking demon language)
+
+[if !supportEmptyParas] [endif]
+
+Giles: Please, don't you understand? (Xander starts grabbing pots
+and pans from his shelves and throws them at him) No, no! Don't! Xander!
+Xander, calm down!  Ow! You're just a
+little overwrought. Oww!
+
+[if !supportEmptyParas] [endif]
+
+Giles: (Xander's POV: growls in frustration and runs out the door)
+
+[if !supportEmptyParas] [endif]
+
+Xander: That's right!  Run
+for your life!
+
+[if !supportEmptyParas] [endif]
+
+Cut to Giles outside in broad daylight, running across a lawn.  Children are playing and Giles is stepping
+on their toys scattered on the grass. Kids are frightened and a mother is
+reaching for her child.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (panicked) Oh, God. 
+I'm sorry!
+
+[if !supportEmptyParas] [endif]
+
+Mother: (grabbing her child) Call 911!
+
+[if !supportEmptyParas] [endif]
+
+Giles: (running away) Bloody humans!
+
+[if !supportEmptyParas] [endif]
+
+~~~~~~~~~~ Part Three ~~~~~~~~~~
+
+[if !supportEmptyParas] [endif]
+
+Fade in to panning evening shot of Sunnydale.  Cut to courtyard of Giles' apartment
+building.  Buffy is leading the way down
+the steps with Xander, Willow, and Anya.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: So it had pointy things. What kind of pointy things?
+
+[if !supportEmptyParas] [endif]
+
+Xander: The pointy kind. 
+And tufty ears. Oh, and it might have a sauce pan shape bruise. (trails
+off as they stop)
+
+[if !supportEmptyParas] [endif]
+
+Willow: Giles will know what it . . . was.
+
+[if !supportEmptyParas] [endif]
+
+They see Giles' door is off its hinges leaning against the inside
+wall. They hurry in.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Giles?
+
+[if !supportEmptyParas] [endif]
+
+Xander goes halfway up the stairs to check the loft.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Looks like Xander wasn't the only one to get a visitor
+today.
+
+[if !supportEmptyParas] [endif]
+
+Xander: (coming back down) He's not upstairs.
+
+[if !supportEmptyParas] [endif]
+
+Willow: Oh, God, Giles.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Okay.  There's a
+demon and Giles is gone.  But it doesn't
+mean that he's hurt. I mean, there's no blood anywhere so maybe the demon just
+took him somewhere?
+
+[if !supportEmptyParas] [endif]
+
+Anya is picking up Giles' ripped shirt and holds it up for
+inspection.
+
+[if !supportEmptyParas] [endif]
+
+Anya: (mildly) I think it ate him up.
+
+[if !supportEmptyParas] [endif]
+
+Buffy, Willow, and Xander become more worried.
+
+[if !supportEmptyParas] [endif]
+
+Cut to a cemetery. Giles is lumbering through, still wrapped in his
+blanket, in a miserable mood. He walks past a stone mausoleum and does not
+notice Spike holding up a measuring tape to one of its walls.  The vampire sees him and moves out behind
+him in a casual BMF strut.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Well.  What do I spy
+with my little eye? (Giles stops) A demon. 
+That would be . . . oh, right . . . the things I can kill.
+
+[if !supportEmptyParas] [endif]
+
+Giles: ("why me?" tone) Spike. Wonderful.  A perfect end to a perfect day.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (frowning) Giles?
+
+[if !supportEmptyParas] [endif]
+
+Giles: (turning around, fists up) Go on, then.  Let's get on with the fighting-- You
+understand me?
+
+[if !supportEmptyParas] [endif]
+
+Spike: Of course I understand you.
+
+[if !supportEmptyParas] [endif]
+
+Giles: I'm speaking English?
+
+[if !supportEmptyParas] [endif]
+
+Spike: No, you're speaking Fyarl. 
+I happen to speak Fyarl.  And . .
+. by the way, why the hell are you suddenly a Fyarl demon? You just come over
+all demony this morning?
+
+[if !supportEmptyParas] [endif]
+
+Spike steps back to the mausoleum, pulling out his smokes. Giles
+follows him..
+
+[if !supportEmptyParas] [endif]
+
+Giles: As a matter of fact, I did. Thanks to Ethan Rayne.  You have to help me find him. He must undo
+this and then he needs a . . .  good
+being killed.
+
+[if !supportEmptyParas] [endif]
+
+Spike: And I'm just supposed to help you out of the evilness of my
+heart?
+
+[if !supportEmptyParas] [endif]
+
+Giles: Y-you help me and I-I don't kill you.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Oh, tremendously convincing. Try it again without the
+stutter. (takes a drag)
+
+[if !supportEmptyParas] [endif]
+
+Giles: Money.  I could pay
+you money.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (steps closer and flicks cig away) Oh, I like money. How
+much?
+
+[if !supportEmptyParas] [endif]
+
+Giles: A h-hundred dollars.
+
+[if !supportEmptyParas] [endif]
+
+Spike: A hundred dollars? You'll have to do a lot better than
+that.  Two-hundred.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Fine.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (surprised for a second) Right, then.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Right, then.
+
+[if !supportEmptyParas] [endif]
+
+Spike: So what's first? (grinning) I run and tell the Slayer what
+you've gotten yourself into?
+
+[if !supportEmptyParas] [endif]
+
+Giles: No. When I find Ethan I can clear all this up without Buffy
+ever having to find out that anything happened to me at all.
+
+[if !supportEmptyParas] [endif]
+
+Giles starts out of the cemetery and Spike follows.
+
+[if !supportEmptyParas] [endif]
+
+Cut to Giles' apartment. 
+Xander is sitting at Giles' desk looking through several open books.
+Everyone is looking through books. Willow is holding a book for him.
+
+[if !supportEmptyParas] [endif]
+
+Xander: Okay, that's a giant vulture.  I'd have mentioned it if it was a giant vulture.
+
+[if !supportEmptyParas] [endif]
+
+Willow steps away to keep searching.
+
+[if !supportEmptyParas] [endif]
+
+Willow: Buffy, even if we figure out what kind of demon got Giles
+--I mean, how are we gonna find it?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: We'll figure it out. (shows a book to Xander) Oh, this one
+has tufty ears.
+
+[if !supportEmptyParas] [endif]
+
+He looks at the page and dismisses it with a wave.  They all look towards the door when they
+hear a noise outside.
+
+[if !supportEmptyParas] [endif]
+
+Willow: (whispering) What was that?
+
+[if !supportEmptyParas] [endif]
+
+Buffy moves quietly to the door pulling out a stake. The door moves
+and Buffy cocks back the stake and --
+
+[if !supportEmptyParas] [endif]
+
+It's just Riley.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Buffy?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Riley. What are you doing here?
+
+[if !supportEmptyParas] [endif]
+
+Riley: There were 911 calls from a couple of different places.
+Including here.
+
+[if !supportEmptyParas] [endif]
+
+Xander: You get 911 calls?
+
+[if !supportEmptyParas] [endif]
+
+Riley: We have a tap into the system.  It flags things with possible nonhuman causes. (Xander shakes his
+head in dismay and continues researching) We check them out. (to Buffy) What
+are you doing here?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: This is Giles' apartment. 
+He's missing. The calls, did anyone see what did it?
+
+[if !supportEmptyParas] [endif]
+
+Riley: Negative.  No.  Neighbors just heard, you know, growling,
+things breaking. Sounded like a struggle.
+
+[if !supportEmptyParas] [endif]
+
+Willow: Poor Giles.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: We'll get him back.
+
+[if !supportEmptyParas] [endif]
+
+Riley: What are you working on?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Uh, we have stuff. Pictures . . .
+
+[if !supportEmptyParas] [endif]
+
+Anya: (helpfully) We have nothing.
+
+[if !supportEmptyParas] [endif]
+
+Riley sees Buffy's crestfallen expression as she leans against the
+wall and puts his hands on her shoulders.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I'll help. The whole Initiative.  We'll do whatever you need.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Thanks. I just wish I knew what I needed. I keep thinking,
+"let's ask Giles" and then I remember.
+
+[if !supportEmptyParas] [endif]
+
+Xander: He'd be great right now. He'd find himself in a second.
+Nobody is cooler in a crisis.
+
+[if !supportEmptyParas] [endif]
+
+Cut to Giles' Citroen. 
+Giles is in the passenger seat and Spike is behind the wheel, wrestling
+with the gearshift. The car sounds like it's being murdered.
+
+[if !supportEmptyParas] [endif]
+
+Giles: If you can't find third gear, don't try for third gear!
+
+[if !supportEmptyParas] [endif]
+
+Spike: I'm doing my best.  I
+don't know if I'm driving this thing or wearing it.
+
+[if !supportEmptyParas] [endif]
+
+Giles: It's perfectly serviceable.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (laughs) Funny hearing a Fyarl demon say "serviceable."
+Had a couple of them working for me once. They're more like "Like to
+crush.  Crush now?" Strong
+though.  You won't meet a jar you can't
+open for the rest of your life.
+
+[if !supportEmptyParas] [endif]
+
+Giles's growls.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (looks at him) What was that?  Did you growl?
+
+[if !supportEmptyParas] [endif]
+
+Giles: No. Listen, about this Fyarl demon. Do-do I have special
+powers? Like setting things on fire with my sizzling eye beams?
+
+[if !supportEmptyParas] [endif]
+
+Spike: Well, you got the mucous thing.
+
+[if !supportEmptyParas] [endif]
+
+Giles: What?  Mucous?
+
+[if !supportEmptyParas] [endif]
+
+Spike: Paralyzing mucous. Shoots out through the nose. Sets on fast.  Hard as a rock.  Pretty good in a fight.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Are you making this up?
+
+[if !supportEmptyParas] [endif]
+
+Spike: (sly grin) Maybe. But hey, you feel a sneeze coming on, you
+warn me. 
+
+[if !supportEmptyParas] [endif]
+
+Giles: (growls) Turn here.
+
+[if !supportEmptyParas] [endif]
+
+He slams his arm against the door for emphasis and Spike makes a
+left turn.  The Citroen makes it's
+disapproval of this known with the grinding of gears..
+
+[if !supportEmptyParas] [endif]
+
+Giles: Down shift! Down shift!
+
+[if !supportEmptyParas] [endif]
+
+Spike: Calm down, will you?
+
+[if !supportEmptyParas] [endif]
+
+Giles: I'm not sure I can. 
+I feel like I'm changing.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (sighs) Fine with me. So long as you pay me.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (growling quality) I really like this feeling. Sort of
+mindless need to destroy. This anger and rage.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Good times. Go with it.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (almost normal voice again) No.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Oh, it's fun. I can't do it, do it for me.  Now let yourself go.
+
+[if !supportEmptyParas] [endif]
+
+Giles: I refuse to become a monster because I look like a monster.
+I have a soul.  I have a
+conscience.  I am a human being.  Oh, stop the car!
+
+[if !supportEmptyParas] [endif]
+
+The Citroen pulls to a stop at the corner of Main Street and we see
+that Professor Walsh has just crossed the street.  Giles hops out of the car, without his blanket, and creeps up
+behind her.  When he's close enough he
+roars and waves his claws in the air. 
+Walsh looks over her shoulder and (surprising for the evil Bitch Monster
+of Death) screams like a woman and runs for her life as Giles chases her down
+the street, pass the Espresso Pump. He stops halfway down the street but Walsh
+continues to flee.  Giles hurries back
+to the car ignoring the gaping stares of a few pedestrians.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (closing the door) Right. Let's go, then.
+
+[if !supportEmptyParas] [endif]
+
+While we're still laughing our asses off, we go back to Giles's
+apartment.  Our gang is gathered around
+the sofa. Xander, Willow, and Anya are sitting on the cushions and Buffy is
+sitting on the arm of the sofa (really long couch). And Riley is standing
+behind it.  Xander points into the book
+he's holding and passes it to Willow.
+
+[if !supportEmptyParas] [endif]
+
+Xander: That's the thing that attacked me.
+
+[if !supportEmptyParas] [endif]
+
+Willow: A Fyarl demon.  Sort
+of a foot soldier type, works for other demons lots of the times. Very strong .
+. . ugh! And hey, mucous.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Mucous?
+
+[if !supportEmptyParas] [endif]
+
+Riley: (cell phone beeps and he pulls it out) Agent Finn, go ahead.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: How do I kill it?
+
+[if !supportEmptyParas] [endif]
+
+Willow: Silver. A weapon made of silver.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Yes.  I understand.
+(hangs up) The demon attacked Professor Walsh. Got out of a small, gray
+car.  A Citroen.
+
+[if !supportEmptyParas] [endif]
+
+Willow: It stole Giles' car.
+
+[if !supportEmptyParas] [endif]
+
+Xander: Why would a demon steal a car?
+
+[if !supportEmptyParas] [endif]
+
+Anya: Why would a demon steal *that* car?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: A demon that steals a car has a reason. A purpose. But it
+doesn't sound like these Fyarl demons are really big independent thinkers. So,
+Will, the spells that are going wrong . . . could they be caused by someone
+using majiks to control a demon? Making this Fyarl demon attack Giles?
+
+[if !supportEmptyParas] [endif]
+
+Willow: Yes.  Yeah, that
+would draw in a lot of dark energy.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Okay.  (standing)
+Willow, Xander: stay here. Who's ever controlling this demon may call and ask
+for a ransom.  Give them anything they
+want.
+
+[if !supportEmptyParas] [endif]
+
+Xander: You got it.
+
+[if !supportEmptyParas] [endif]
+
+Rounding the couch and stepping towards Giles' desk.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Riley, you and I are going to the magic shop.  Maybe they needed supplies. Uh, something
+silver . . .
+
+[if !supportEmptyParas] [endif]
+
+She looks on the desk and picks up a letter opener.
+
+[if !supportEmptyParas] [endif]
+
+Riley: A letter opener? 
+It's not very sharp.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Then I'll have to put some muscle behind it.
+
+[if !supportEmptyParas] [endif]
+
+As they leave the apartment--
+
+[if !supportEmptyParas] [endif]
+
+Cut to the seedy place Giles and Ethan got smashed.  Spike is on a stool, his back to the bar,
+the same waitress standing in front of him. 
+He throws back a shot and places the glass on the bar.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (suave) Two of them. 
+English like me. But older, less attractive. One of them gave you his
+number.
+
+[if !supportEmptyParas] [endif]
+
+Quick shot of Giles sitting at the end of the bar, looking on,
+hidden under his blanket.
+
+[if !supportEmptyParas] [endif]
+
+Waitress: I threw it out. I mean, I took one look and saw that he
+was staying at that rat trap.  No
+thanks.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Which rat trap?
+
+[if !supportEmptyParas] [endif]
+
+Waitress: The one by the highway. 
+The Sunnydale Motor Inn.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (smiles) Thank you.
+
+[if !supportEmptyParas] [endif]
+
+Cut to the magic shop where Buffy is kicking in its door
+(again).  She hurries inside with Riley
+following, and they go behind the register counter.
+
+[if !supportEmptyParas] [endif]
+
+Buffy:  Okay.  Credit card slips, sales receipt.  Help me look.
+
+[if !supportEmptyParas] [endif]
+
+Riley: (disapprovingly) You shouldn't have done that to the door.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: I do not have time to play by the rules tonight.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I have a master key. 
+It opens every shop on Main Street.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Oh. Well . . . next time, absolutely.
+
+[if !supportEmptyParas] [endif]
+
+Buffy opens a drawer and is flipping through credit card slips.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I don't know what I'm looking for.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: I do. (rips free a slip) (pissed, dumps the slips back in
+drawer and slams it) "Ethan Rayne." 
+
+[if !supportEmptyParas] [endif]
+
+Riley: Who's that?
+
+[if !supportEmptyParas] [endif]
+
+Buffy:  (handing it to him)
+Professional bad guy. He's gotta be the guy that made the demon attack Giles.
+(Riley's pulling out cell phone) At least we know who we're looking for.
+
+[if !supportEmptyParas] [endif]
+
+Riley: (into phone) Command, are you there?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: What are you doing?
+
+[if !supportEmptyParas] [endif]
+
+Riley: (into phone) It's agent Finn. I need a search. Local hotel
+registrations matching the name Ethan Rayne. R-A-Y-N-E. Call me back. (flips it
+close)
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (maybe impressed) You can do that?
+
+[if !supportEmptyParas] [endif]
+
+Riley: It'll take a couple of minutes.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Get in the car.  Be
+ready to go.
+
+[if !supportEmptyParas] [endif]
+
+He starts to follow her out of the shop.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Buffy. (she stops to face him) Earlier, when I talked to
+Professor Walsh, she gave me very specific orders.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Yeah?
+
+[if !supportEmptyParas] [endif]
+
+Riley: She said when we located the demon I . . . I'm not supposed
+to bring you along.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (not missing a beat) Oh. (turns to leave)
+
+[if !supportEmptyParas] [endif]
+
+Riley: Uh, what are you doing?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (faces him) I'm *going* to the car.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Buffy, I can't take you with me.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: You're not taking me with you.  I am going and I am letting you come along.
+
+[if !supportEmptyParas] [endif]
+
+Riley: Buffy, it's not really your call. This is a military
+operation now.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (steely) Then call out the troops.  Because nothing less than that is gonna stop me.  This demon did something to Giles and I'm
+gonna kill it.
+
+[if !supportEmptyParas] [endif]
+
+She leaves and Riley has no choice but to follow.
+
+[if !supportEmptyParas] [endif]
+
+~~~~~~~~~~~ Part Four ~~~~~~~~~~~~
+
+[if !supportEmptyParas] [endif]
+
+Fade in on our English demons in the Citroen. Giles is growling
+softly.
+
+[if !supportEmptyParas] [endif]
+
+Spike: How ya feeling, mate?
+
+[if !supportEmptyParas] [endif]
+
+Giles: (growling quality) Like snapping necks until everyone is
+dead.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Now that sounds like a Fyarl demon. Good for you.
+
+[if !supportEmptyParas] [endif]
+
+Shot through front of the windshield.  We see a set of bright headlights pull in behind the
+Citroen.  Spike sees this through the
+rearview mirror.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Hey, picked up a tail.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (almost normal voice) Yes. 
+Just a little one. It hurts when I sit.
+
+[if !supportEmptyParas] [endif]
+
+Spike: I mean someone is following us. Humvee.  Military.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Well speed up. Lose them.
+
+[if !supportEmptyParas] [endif]
+
+Spike: I got it floored. Why'd you buy this car?
+
+[if !supportEmptyParas] [endif]
+
+Giles: Well do something. 
+If they catch us, we'll both end up in a lab!
+
+[if !supportEmptyParas] [endif]
+
+Spike: It's getting closer.
+
+[if !supportEmptyParas] [endif]
+
+Cut to exterior shot.  A
+second humvee suddenly swerves in front of the first, closer to the Citroen.
+
+[if !supportEmptyParas] [endif]
+
+Spike: And it's got a friend!
+
+[if !supportEmptyParas] [endif]
+
+Giles: Damn!
+
+[if !supportEmptyParas] [endif]
+
+Giles slams his arm against the door but his fist finds the window
+and shatters it.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Oh, sure!  Dismantle
+the getaway car. That'll scare them.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Then slow down and I'll jump out. They'll follow you.
+
+[if !supportEmptyParas] [endif]
+
+Spike: Hold on. These commandos. They're the same guys that are
+after me too..  Maybe I want you around
+to split their attention a bit?
+
+[if !supportEmptyParas] [endif]
+
+Giles: I'll pay you another hundred dollars.
+
+[if !supportEmptyParas] [endif]
+
+Exterior shot.  Citroen
+screaming ass (as well as it can) around a corner and the side passenger door
+opens to let Giles tumble out onto the street. 
+He rolls towards the sidewalk as the car continues and is on his feet
+and heading for the shadows by the time the humvees come tearing after Spike.
+
+[if !supportEmptyParas] [endif]
+
+Cut to exterior shot of Sunnydale Motor Inn (which looks like the
+same motel Faith stayed at). Cut to interior of Ethan's room.  He is busy packing his suitcase to haul ass
+out of town when Giles smashes through the door. Almost shitting a brick, Ethan
+turns and is frightened by the site of the pissed off demon growling at
+him.  Then recognition hits.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Giles?
+
+[if !supportEmptyParas] [endif]
+
+Ethan sees that Giles is deep in "like to crush" mode and
+backs away at his approach.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Now-- it-it-- calm down! 
+(gets on the bed trying to escape) It's okay.  Good Giles.
+
+[if !supportEmptyParas] [endif]
+
+Giles reaches for him and Ethan dodges him, jumping off the
+bed.  It seems like he might make it
+past him when Giles grabs him.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: No! No! Don't kill me!
+
+[if !supportEmptyParas] [endif]
+
+Practically a mindless Fyarl demon now, Giles gets him by the
+throat and lifts him in the air.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (choking) I can't undo you if you kill me!
+
+[if !supportEmptyParas] [endif]
+
+But Giles doesn't seem to care and flings him across the room where
+he crashes head-first into a night stand, shattering it to pieces. That's when
+Buffy and Riley rush in and see the situation.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (to Buffy) You've got to stop it! It killed Ripper and now
+it's trying to get me!
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (glaring at Giles, but to Riley) Don't let him go.
+
+[if !supportEmptyParas] [endif]
+
+Giles takes a step forward and Buffy knocks him back against the
+wall with a spinning back kick.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (very pissed) What did you do to him? What did you do?!
+
+[if !supportEmptyParas] [endif]
+
+What about Spike? Oh, yeah. The humvee chase is still in progress.
+Spike is definitely enjoying himself as he pulls the wheel sharply to the side,
+making the decrepit Citroen fishtail around a corner.  The humvees are still on its ass. Spike takes another sharp turn
+and this time the lead humvee looses control and spins out forcing the second
+humvee to screech to a halt before it hits it.
+
+[if !supportEmptyParas] [endif]
+
+Spike: (looking in rearview mirror) You just try and stop me, you
+stupid jar-- (CRASH!!!)
+
+[if !supportEmptyParas] [endif]
+
+The Citroen crashes into the side of a building.
+
+[if !supportEmptyParas] [endif]
+
+**NOT AIRED IN FINAL CUT OF EPISODE
+
+[if !supportEmptyParas] [endif]
+
+The driver's door opens and Spike staggers out.
+
+[if !supportEmptyParas] [endif]
+
+Spike: I can kill demons.  I
+can crash cars. . . . Things are looking up!"**
+
+[if !supportEmptyParas] [endif]
+
+Back to Ethan's room.  Giles
+charges Buffy and shoves her against the wall. She retaliates with a hard right
+cross. Ethan, trying to escape, hits Riley with a right cross.  Riley --showing considerable restraint--
+just grabs him and throws him against the dresser twisting his arm behind his
+back. Buffy is executing a jumping front kick, knocking Giles back.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (watching) You're only going to make him angry.
+
+[if !supportEmptyParas] [endif]
+
+Which seems true as Giles just keeps getting back up no matter how
+many times Buffy knocks him down. Ethan tries to escape again, elbowing Riley
+in the face, but Riley grabs him again, slamming him into the wall before he
+could reach the door.  Giles takes a
+swing at Buffy who ducks and slams several punches to his face. When Ethan
+takes another swing at him, Riley takes a few seconds to beat the crap out of
+him.  He smashes an elbow into Ethan's
+face and punches him in the stomach. Buffy is hitting Giles in the face with a
+roundkick and Riley shoulder-flips Ethan to the floor, getting him in an arm
+lock and pressing a knee against his face.
+
+[if !supportEmptyParas] [endif]
+
+Back to Buffy and Giles: she is picking up a foldable stand as
+Giles charges her with his large horns and traps his head in the leather
+straps. Swinging him around she throws him to the other side of the room. She
+tries to press her attack when Giles frees himself lifting his head, smashing
+the curve of his horn into her face, and she falls to the floor. Giles growls
+at her.
+
+[if !supportEmptyParas] [endif]
+
+Buffy gets Giles' legs in a scissor lock and takes him down.  Before he can get up, Buffy straddles his
+waist with the letter opener in her hand. She leans down close to him.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: *This* is for Giles!
+
+[if !supportEmptyParas] [endif]
+
+Giles: For me?
+
+[if !supportEmptyParas] [endif]
+
+With both hands, Buffy raises the weapon high above her head and
+slams it down into Giles' chest. Giles' eyes open wide. Buffy is looking into
+his eyes.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (shocked) Oh, God! 
+Giles!
+
+[if !supportEmptyParas] [endif]
+
+Buffy pulls out the letter opener.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (from Buffy's POV: trying to say something in Fyarl)
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (pleading) Oh, God! Giles! Giles! I'm so--I'm so sorry!
+Please don't die!
+
+[if !supportEmptyParas] [endif]
+
+Giles: Actually, I feel quite well.  Except for the rage.
+
+[if !supportEmptyParas] [endif]
+
+Buffy sees that Giles doesn't seem to be dying and is relieved.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (to Riley) I think he's okay.  I--(frowning at letter opener) is this thing real silver?
+
+[if !supportEmptyParas] [endif]
+
+Cut to some time later. 
+Riley is guarding the door speaking into his cell phone. Ethan is
+sitting cross-legged on the floor, remnants of a spell just completed in front
+of him.  Buffy is standing behind him
+holding him by the back of his collar. 
+He's looking glum as he rests his chin on his fist.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (pouting) I really got to learn to just do the damage and
+get out of town.  It's the "stay
+and gloat" that gets me every time.
+
+[if !supportEmptyParas] [endif]
+
+Buffy nudges him with her knee and walks across the room as Riley
+finishes his call.  We see Giles, normal
+again except for a very ugly silk shirt he's wearing, standing in front of the
+dresser mirror looking at himself. 
+Buffy stands beside him.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: You okay?
+
+[if !supportEmptyParas] [endif]
+
+Giles: (sheepishly) Oh, um, uh, embarrassed, mostly.  Ethan's wardrobe's not helping any.  (faces her) Uh, how did you know it was me?
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Your eyes. (off his look) You're the only person in the
+world that can looked *that* annoyed with me.
+
+[if !supportEmptyParas] [endif]
+
+They share a touching moment. Ethan gets to his feet.
+
+[if !supportEmptyParas] [endif]
+
+Ethan: Is this gonna go on much longer? I'd rather like to be
+going.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (crossing her arms) And why would I let you go?
+
+[if !supportEmptyParas] [endif]
+
+Ethan: (pompously) Well, maybe because you have no choice. I'm
+human, you can't kill me.  What's a
+Slayer going to do to me?
+
+[if !supportEmptyParas] [endif]
+
+Riley steps up behind him as a couple of tough looking MP's enter
+the room.
+
+[if !supportEmptyParas] [endif]
+
+Riley: (as Ethan is cuffed) By the authority of the US military,
+you're being taken into custody pending a determination of your status. (to MP)
+Take it from here.
+
+[if !supportEmptyParas] [endif]
+
+Ethan doesn't look happy as they take him out of the room. Buffy
+and Giles exchange a very happy look.
+
+[if !supportEmptyParas] [endif]
+
+Riley: They'll, uh, take Mr. Rayne to a secret detention facility
+in the Nevada desert. I'm *sure* he'll be rehabilitated in no time.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (grinning) Uh, if you don't mind, I'm just gonna --go and
+watch them manhandle him into a vehicle.
+
+[if !supportEmptyParas] [endif]
+
+He steps outside leaving Buffy and Riley alone.  He steps close to her.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Thanks.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I told you I'd help.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: You did. If I'd had gotten here any later and if Giles had
+killed Ethan, I . . . never would have gotten him back.
+
+[if !supportEmptyParas] [endif]
+
+Riley: You'd find some other way. (pause) You're really
+strong.  Like Spider-Man strong. 
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Yeah.  But I don't
+stick to stuff.  But . . yeah.
+
+[if !supportEmptyParas] [endif]
+
+Riley: And you're in charge. You're like, make the plan, execute
+the plan.  No one giving you orders.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (a beat) I'm the Slayer.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I like it.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (smiles) Yeah?
+
+[if !supportEmptyParas] [endif]
+
+Riley: But give me another . . oh . . week to get ready. And I'll
+take you down.
+
+[if !supportEmptyParas] [endif]
+
+Buffy gives him a slight "oh, yeah?" look and as they
+smile at each other we--
+
+[if !supportEmptyParas] [endif]
+
+Cut to Giles' apartment the next day. Buffy is sitting on the sofa,
+legs curled, barefoot, with a throw pillow in her lap.  She is watching Giles hook up his new
+cordless phone.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Nice phone.
+
+[if !supportEmptyParas] [endif]
+
+Giles: Yes. Fabulous technology. See, if anyone has information I
+need to know, they can, uh, simply tell me about it.  (lifts the handpiece) Through this ingenious speaking tube.  I'm very excited.
+
+[if !supportEmptyParas] [endif]
+
+Buffy takes all this with "I deserve that" acceptance.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: I am sorry, Giles.  I
+really thought I told you about Riley and the Initiative.  And I know that it doesn't help. Look, I
+promise it won't happen again.  I will
+tell you everything.
+
+[if !supportEmptyParas] [endif]
+
+Giles: (walking towards the couch, removing his glasses) Buffy, I
+don't want to ask you to betray any confidences, and I certainly don't want to
+interfere--
+
+[if !supportEmptyParas] [endif]
+
+Buffy: Uh-oh, you have "but-face." (Giles narrows his
+eyebrows at her) You look like you're gonna say "but."
+
+[if !supportEmptyParas] [endif]
+
+Giles: (a beat) But . . . this, um, Initiative, I'm-I'm a little
+concerned.  Ethan's not exactly a
+reliable source but, um . . . I'm not sure that he's wrong about them.
+
+[if !supportEmptyParas] [endif]
+
+Rounds the sofa to sit down next to her.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: I'm not dating the Initiative.  I'm dating Riley. He's a good guy.
+
+[if !supportEmptyParas] [endif]
+
+Giles: And I-I believe that. But he's part of something we-we don't
+really understand.
+
+[if !supportEmptyParas] [endif]
+
+Buffy: (knowingly) You sure you're not just saying this because you
+don't like Riley's boss?
+
+[if !supportEmptyParas] [endif]
+
+Giles: (as if offended) No! No. 
+I'm not saying that at all. (considers) Though I do . . . hate her quite
+a lot. But I want you to have your personal life, but . . . keep your eyes
+open. Make sure you know what you're getting into.
+
+[if !supportEmptyParas] [endif]
+
+Off Buffy's expression--
+
+[if !supportEmptyParas] [endif]
+
+Cut to the underground headquarters of the Initiative. Riley is
+walking with Walsh across the large complex. 
+In the background we can see several lab techs and military personnel
+moving about as well as the two parked humvees --that were unable to catch an
+old grampa car.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: So she walks in and the rules just suddenly break?
+
+[if !supportEmptyParas] [endif]
+
+Riley: Umm . . . pretty much.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: Be careful with her. She reacts on instinct. There's no
+discipline there. Her loyalties are uncertain.
+
+[if !supportEmptyParas] [endif]
+
+They reach a metal security door.
+
+[if !supportEmptyParas] [endif]
+
+Riley: You won't be disappointed in her.  She's good at what she does. She is the truest soul I've ever
+known.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: Oh, no (chuckling) oh, no! 
+Spontaneous poetic exclamations. Lord, spare me college boys in love.
+
+[if !supportEmptyParas] [endif]
+
+Riley: I'm just saying she'll work out.  You'll be proud of her.
+
+[if !supportEmptyParas] [endif]
+
+Walsh: You want to know what I think? (pause) I think you're
+probably right.
+
+[if !supportEmptyParas] [endif]
+
+Riley smiles then moves off leaving Walsh who swipes an ID card
+through a keypad and steps inside the security door. Cut to interior we see
+Walsh walk a short distance down a white corridor and punch a code into another
+keypad and slide the ID card through again. 
+The door she is standing in front of unlocks and she opens it and
+disappears inside.  It closes again and
+we see a number stenciled into the door: 
+314.
+
+[if !supportEmptyParas] [endif]
+
+Executive Producer
+
+Joss Whedon
+
+
+
+
+
+[an error occurred while processing this directive]
+
+
+
+
