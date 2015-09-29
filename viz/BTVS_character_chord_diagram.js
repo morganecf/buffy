@@ -11,6 +11,17 @@ Array.prototype.sum = function () {
 	if (this.length > 1) return this.reduce(function (a, b) { return a + b; });
 };
 
+d3.selection.prototype.moveToFront = function () {
+  return this.each(function () { this.parentNode.appendChild(this); });
+};
+
+d3.selection.prototype.moveToBack = function () { 
+    return this.each(function () { 
+        var firstChild = this.parentNode.firstChild; 
+        if (firstChild) this.parentNode.insertBefore(this, firstChild); 
+    }); 
+};
+
 
 /* Parse data */
 
@@ -127,6 +138,24 @@ node.append("circle")
 node.on("mouseover", function (d) { d.over = true; highlight(d, d.character, seasons); })
 	.on("mouseout", function (d) { d.over = false; highlight(d, d.character, seasons); });
 
+// To generate a color scale for a given season
+var color_scale = function (season, colors) {
+	// The number of characters in this season
+	var n = Object.keys(counts[season]).length;	
+	// Color scale 
+	return {scale: d3.scale.linear().domain([1, n]).range(colors), max: n};
+};
+
+// Season colors
+var season_colors = {
+	'season1': color_scale('season1', ['#000F2E', '#335CAD', '#47008F']),	// dark blue and purple
+	'season2': color_scale('season2', ['#4C0000', '#E60000', '#B28F00']),	// red and hint of gold
+	'season3': color_scale('season3', ['#142900', '#70944D']),				// green
+	'season4': color_scale('season4', ['#333333', '#E6E6E6']),				// black and grey
+	'season5': color_scale('season5', ['#3D0014', '#A31947']),				// burgundy/magenta reddish
+	'season6': color_scale('season6', ['#523D00', '#E0C266']),				// gold
+	'season7': color_scale('season7', ['#0F3D4C', '#85E0FF']) 				// blue 
+};
 
 /* Dynamically generate the data and visuals */
 
@@ -199,37 +228,6 @@ var character_chords = function (counts) {
 var links_svg = svg.append("g").attr("class", "links");
 var links = links_svg.selectAll("g.links").data(character_chords(counts)).enter();
 
-
-// Function to highlight/unhighlight an arc/node or node/set of arcs
-var highlight = function (d, character, seasons) {
-	var arc_opacity = d.over ? 0.8 : 0.3;
-	var circle_opacity = d.over ? 0.9 : 0.5;
-	var stroke_width = d.over ? 2 : 1;
-	var circle_stroke_color = d.over ? '#222' : '#fff';
-
-	// Modify all arcs corresponding to character and season(s)
-	for (var i = 0; i < seasons.length; i++) {
-		d3.select('#' + character + '-' + seasons[i])
-			.style('stroke-width', stroke_width)
-			.style('opacity', arc_opacity);
-	}
-	
-	// Modify the bubble
-	d3.select('#' + character + '-node').select("circle")
-		.style('opacity', circle_opacity)
-		.style('stroke-width', stroke_width)
-		.style('stroke', circle_stroke_color);
-};
-
-// Function to highlight an arc and all its associated datapoints
-var highlight_arc = function (d) {
-	// Increase size of title 
-
-	// Highlight all links associated with this arc 
-	for (var character in counts[d.season]) highlight(d, character, [d.season]);
-};
-
-
 // Add chord between bubble and arc segment and segment the 
 // chord diagram arcs proportional to how many lines each 
 // character takes up per season 
@@ -264,9 +262,53 @@ var link = links.append("g")			// So we don't conflate with other paths
 		return path;
 	});
 
+
+// Function to highlight/unhighlight an arc/node or node/set of arcs
+var highlight = function (d, character, seasons) {
+	var arc_opacity = d.over ? 0.8 : 0.3;
+	var circle_opacity = d.over ? 0.9 : 0.5;
+	var stroke_width = d.over ? 2 : 1;
+	var circle_stroke_color = d.over ? 'black' : '#fff';
+	var arc_stroke_color = d.over ? 'black' : 'none';
+
+	// Modify all arcs corresponding to character and season(s)
+	var generator, color, a;
+	for (var i = 0; i < seasons.length; i++) {
+		// Grab a random color on the scale for this season
+		generator = season_colors[seasons[i]];
+		color = d.over ? generator.scale(Math.random() * generator.max) : '#fff';
+
+		a = d3.select('#' + character + '-' + seasons[i]);
+		a.style('opacity', arc_opacity).style('fill', color).style('stroke', arc_stroke_color);
+
+		if (d.over) a.moveToFront();
+		else a.moveToBack();
+	}
+	
+	// Modify the bubble
+	d3.select('#' + character + '-node').select("circle")
+		.style('opacity', circle_opacity)
+		.style('stroke', circle_stroke_color);
+
+	if (d.over) node.moveToBack();
+	else node.moveToFront();
+};
+
+// Function to highlight an arc and all its associated datapoints
+var highlight_arc = function (d) {
+	// Increase size of title 
+
+	// Highlight all links associated with this arc 
+	for (var character in counts[d.season]) highlight(d, character, [d.season]);
+
+	if (d.over) node.moveToBack();
+	else node.moveToFront();
+};
+
+
 // Style the inner arcs (links)
-link.style("stroke", "#fff")
-	.style("fill", "#fff")
+//link.style("stroke", "#fff")
+link.style("fill", "#fff")
 	.style("stroke-width", 1)
 	.style("opacity", 0.3);
 
@@ -309,10 +351,10 @@ svg.append("g").selectAll("text")
 
 
 // Bring all the bubbles to the front 
-
+node.moveToFront();
 
 /* 
 	TO DO 
-	- should draw bubbles over chords (or make more opaque?)
+	- fix the node front/back problem 
 	- gradient of colors for each season (so each character gets different color)
 */
