@@ -355,8 +355,8 @@ node.moveToFront();
 
 /* 
 	TO DO 
-	- fix the node front/back problem 
-	- gradient of colors for each season (so each character gets different color)
+	- individual character tooltips
+	- make non-highlighted stuff all but disappear
 
 	- useful: http://www.brightpointinc.com/interactive/political_influence/index.html
 */
