@@ -18,8 +18,6 @@ var seasons = Object.keys(counts).sort();
 
 // Used for the bubble layout 
 var bubble_data = {};
-// Used for drawing arcs 
-var arc_data = [];
 
 // Aggregate counts
 for (var season in counts) {
@@ -29,8 +27,6 @@ for (var season in counts) {
 		else {
 			if (character in bubble_data) bubble_data[character] += counts[season][character];
 			else bubble_data[character] = counts[season][character]
-
-			arc_data.push({'character': character, 'season': season, 'count': counts[season][character]});
 		}
 	}
 }
@@ -76,7 +72,7 @@ var bubble = d3.layout.pack()
 	.size([bubbleD, bubbleD])
 	.padding(1.5);	// padding between circles 
 
-// The chord layout (not a function)
+// The chord layout object
 var chord = d3.layout.chord()
 	.padding(0.05)
 	.sortSubgroups(d3.descending)
@@ -94,9 +90,10 @@ var chord_arc = svg.append("g").selectAll("path")
 	.data(chord.groups)
 	.enter()
 	.append("path")
-	.style("fill", "#fff")
 	.attr("d", d3.svg.arc().innerRadius(inner_radius).outerRadius(outer_radius))
-	.attr("id", function (d, i) { return 'season' + (i + 1) + '-arc'; });
+	.attr("id", function (d, i) { return 'season' + (i + 1) + '-arc'; })
+	.style("fill", "#fff")
+	.style("opacity", 0.2);
 
 // To show the chord layout dummy arcs 
 // var clayoutarcs = svg.append("g")
@@ -123,15 +120,21 @@ node.append("title").text(function (d) { return d.character + ':' + d.value; });
 // Radius of each node is proportional to the total # of times character has spoken 
 node.append("circle")
 	.attr("r", function (d) { return d.r; })
-	.style("fill", "#fff").style("opacity", 0.9);
+	.style("fill", "#fff")
+	.style("opacity", 0.5);
+
+// Interactive functionality for character bubble
+node.on("mouseover", function (d) { d.over = true; highlight(d, d.character, seasons); })
+	.on("mouseout", function (d) { d.over = false; highlight(d, d.character, seasons); });
 
 
-log(chord.groups());
+/* Dynamically generate the data and visuals */
 
-/* 
-	Constructs individual chord data objects for each character-to-season chord
-	and arc segment. 
-*/
+var diag = d3.svg.diagonal.radial();	// Generates path for cubic bezier curve
+var arc = d3.svg.arc();					// Generates path for arc 
+
+//	Constructs individual chord data objects for each character-to-season chord
+//	and arc segment. 
 var character_chords = function (counts) {
 	var data = [];
 
@@ -169,50 +172,147 @@ var character_chords = function (counts) {
 			var target1 = {x: x1, y: y1};
 			var target2 = {x: x2, y: y2};
 
-			data.push({'source': source, 'target': target1, 'character': character, 'season': season, value: count});
-			data.push({'source': source, 'target': target2, 'character': character, 'season': season, value: count});
+			// Construct the chord datapoints (start and end)
+			var datapoint = {
+				'character': character,
+				'season': season,
+				'start': {'source': source, 'target': target1},
+				'end': {'source': source, 'target': target2},
+				'value': count,
+				'startAngle': curr_angle,
+				'endAngle': angle,
+			};
+
+			data.push(datapoint);
 
 			// Increment the current angle
 			curr_angle = angle;
 		}
+
+		//break;
 	}
 
 	return data;
 };
 
-var diag = d3.svg.diagonal.radial();
-
-// Links between bubbles and chord arcs 
+// Links between bubbles and arcs 
 var links_svg = svg.append("g").attr("class", "links");
 var links = links_svg.selectAll("g.links").data(character_chords(counts)).enter();
+
+
+// Function to highlight/unhighlight an arc/node or node/set of arcs
+var highlight = function (d, character, seasons) {
+	var arc_opacity = d.over ? 0.8 : 0.3;
+	var circle_opacity = d.over ? 0.9 : 0.5;
+	var stroke_width = d.over ? 2 : 1;
+	var circle_stroke_color = d.over ? '#222' : '#fff';
+
+	// Modify all arcs corresponding to character and season(s)
+	for (var i = 0; i < seasons.length; i++) {
+		d3.select('#' + character + '-' + seasons[i])
+			.style('stroke-width', stroke_width)
+			.style('opacity', arc_opacity);
+	}
+	
+	// Modify the bubble
+	d3.select('#' + character + '-node').select("circle")
+		.style('opacity', circle_opacity)
+		.style('stroke-width', stroke_width)
+		.style('stroke', circle_stroke_color);
+};
+
+// Function to highlight an arc and all its associated datapoints
+var highlight_arc = function (d) {
+	// Increase size of title 
+
+	// Highlight all links associated with this arc 
+	for (var character in counts[d.season]) highlight(d, character, [d.season]);
+};
+
 
 // Add chord between bubble and arc segment and segment the 
 // chord diagram arcs proportional to how many lines each 
 // character takes up per season 
-links.append("g")			// So we don't conflate with other paths 
-	.attr("class", "radial")
+var link = links.append("g")			// So we don't conflate with other paths 
+	.attr("class", "link")
 	.append("path")
 	.attr("id", function (d) { return d.character + '-' + d.season; })
 	.attr("d", function (d) { 
-		// Simulates a chord with two cubic bezier curves (diagonal radials).
-		return diag(d); 
-	})
-	.style("stroke", "#fff")
-	.style("fill", "none")
-	.style("stroke-opacity", 0.2);
+		// Simulates a chord with two cubic bezier curves (diagonal radials)
+
+		// The first curve path 
+		var c1 = diag(d.start);	
+
+		// The second curve path 
+		var c2 = diag(d.end);
+
+		// The arc path 
+		var a = arc({startAngle: d.startAngle, endAngle: d.endAngle, innerRadius: inner_radius, outerRadius: outer_radius});
+
+		// The line from the first curve endpoint to the top of the arc segment
+		var l1 = 'L' + a.split('M')[1].split('A')[0];
+
+		// The top arc and line down 
+		var a1 = 'A' + a.split('A')[1];
+
+		// We need to reverse the second curve path to start from the arc
+		var cpoints = c2.replace('M', '').replace('C', ' ').split(' ').reverse();
+		var c3 = 'C' + cpoints[1] + ' ' + cpoints[2] + ' ' + cpoints[3] + 'Z';
+		
+		var path = c1 + l1 + a1 + c3; 
+
+		return path;
+	});
+
+// Style the inner arcs (links)
+link.style("stroke", "#fff")
+	.style("fill", "#fff")
+	.style("stroke-width", 1)
+	.style("opacity", 0.3);
+
+// Link hover functionality 
+link.on("mouseover", function (d) { d.over = true; highlight(d, d.character, [d.season]); })
+	.on("mouseout", function (d) { d.over = false; highlight(d, d.character, [d.season]); });
 
 
+// Create text data for each season 
+var text_data = [];
+var a, s;
+for (var i = 0; i < seasons.length - 1; i++) {
+	// Calculate the arc length 
+	a = d3.select("#" + seasons[i] + "-arc").data()[0];
+	s = inner_radius * (a.endAngle - a.startAngle);
 
-function update () {
-
+	text_data.push({
+		x: (s / 2) - 15,
+		href: '#' + seasons[i] + '-arc',
+		id: 'season' + i + '-text',
+		text: 'Season ' + seasons[i].replace('season', ''),
+		season: seasons[i]
+	});
 }
 
-// /* 
-// 	TO DO 
+// Render the season names 
+svg.append("g").selectAll("text")
+	.data(text_data)
+	.enter()
+	.append("text")
+	.attr("x", function (d) { log(d.id); return d.x; })
+	.attr("dy", -15)
+	.append("textPath")
+	.attr("class", "season-title")
+	.attr("xlink:href", function (d) { return d.href; })
+	.attr("id", function (d) { return d.id; })
+	.text(function (d) { return d.text; })
+	.on("mouseover", function (d, i) { d.over = true; highlight_arc(d); })
+	.on("mouseout", function (d, i) { d.over = false; highlight_arc(d); });
 
-// 	- on mouseover display info for character
-// 		- name 
-// 		- total count
-// 		- some kind of visual breakdown by season (stacked bar?)
 
-// 
+// Bring all the bubbles to the front 
+
+
+/* 
+	TO DO 
+	- should draw bubbles over chords (or make more opaque?)
+	- gradient of colors for each season (so each character gets different color)
+*/
