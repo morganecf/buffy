@@ -10,10 +10,10 @@
 
 	<!-- Custom fonts --> 
 	<link href='https://fonts.googleapis.com/css?family=Amatic+SC|Astloch' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200,300,700' rel='stylesheet' type='text/css'>
 
 	<style>
 		body {
-			/*background: #990000;*/
 			background-image: url("btvs_wallpaper.png");
 		}
 
@@ -23,16 +23,113 @@
 			font-size: 25px;
 			fill: white;
 		}
+
+		.d3-tip {
+			line-height: 1;
+			font-weight: bold;
+			padding: 12px;
+			background: rgba(0, 0, 0, 0.6);
+			color: #fff;
+			border-radius: 2px;
+		}
+
+		/* Creates a small triangle extender for the tooltip */
+		.d3-tip:after {
+			/*box-sizing: border-box;
+			display: inline;
+			font-size: 10px;
+			width: 100%;
+			line-height: 1;
+			color: rgba(0, 0, 0, 0.8);
+			content: "\25BC";
+			position: absolute;
+			text-a*/lign: center;
+		}
+
+		/* Style northward tooltips differently */
+		.d3-tip.n:after {
+			/*margin: -1px 0 0 0;
+			top: 100%;
+			lef*/t: 0;
+		}
+
+		.link-tooltip-title {
+			text-align: center;
+			margin-bottom: 3px;
+			font-family: 'Yanone Kaffeesatz', sans-serif;
+			font-weight: 400; /* normal */
+		}
+		.link-tooltip-title:first-letter {
+		    text-transform: capitalize;
+		}
+		.link-tooltip-value {
+			text-align: center;
+			font-family: 'Yanone Kaffeesatz', sans-serif;
+			font-weight: 300; /* light */
+			margin-top: 3px;
+		}
+		.lines-spoken {
+			text-align: center;
+			font-family: 'Yanone Kaffeesatz', sans-serif;
+			font-weight: 200; /* light */
+			font-size: 8px;
+			margin-top: 2px;
+		}
+		/*.total-char-wrapper {
+			float: left;
+			position: absolute;
+			margin-left: -12px;
+		}
+		.total-line-wrapper {
+			float: right;
+			position: absolute;
+			margin-right: 20px;
+		}*/
+
+		#title {
+			font-family: 'Amatic SC', cursive;
+			color: #fff;
+		}
+		.heading {
+			font-family: 'Yanone Kaffeesatz', sans-serif;
+			color: #fff;
+			text-align: center;
+			margin-top: -30px;
+			margin-left: -55px;
+		}
+		#seasons {
+			font-weight: 700;
+		}
+		#characters {
+			font-weight: 400;
+		}
+		#lines {
+			font-weight: 200;
+		}
+		
 	</style>
 
 </head>
 
 <body>
-  <div class="container"> </div>
+  <div class="container"> 
+  	<div class="row">
+  		<div class="col-lg-9" id="svg-container"></div>
+  		<div class="col-lg-3">
+  			<div class="row" id="title"><h1>Buffy the Vampire Slayer</h1></div>
+  			<div class="row heading" id="seasons"><h1>7 seasons</h1></div>
+  			<div class="row heading" id="characters"><h2>669 characters</h2></div>
+  			<div class="row heading" id="lines"><h3>44,536 lines</h3></div>
+  		</div>
+  	</div>
+  </div>
 </body>
 
 <!-- D3.js --> 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+
+<!-- D3 tooltip plugin --> 
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 
 <!-- Jquery --> 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>

@@ -30,6 +30,9 @@ var seasons = Object.keys(counts).sort();
 // Used for the bubble layout 
 var bubble_data = {};
 
+// Used for tips - for each character, season in which spoke most lines 
+var tip_data = {};
+
 // Aggregate counts
 for (var season in counts) {
 	for (var character in counts[season]) {
@@ -37,7 +40,15 @@ for (var season in counts) {
 
 		else {
 			if (character in bubble_data) bubble_data[character] += counts[season][character];
-			else bubble_data[character] = counts[season][character]
+			else bubble_data[character] = counts[season][character];
+
+			if (character in tip_data) {
+				if (tip_data[character].c < counts[season][character]) {
+					tip_data[character].c = counts[season][character];
+					tip_data[character].s = season;
+				}
+			}
+			else tip_data[character] = {c: counts[season][character], s: season};
 		}
 	}
 }
@@ -90,11 +101,60 @@ var chord = d3.layout.chord()
 	.matrix(matrix);
 
 // SVG where everything will be appended 
-var svg = d3.select(".container").append("svg")
+var svg = d3.select("#svg-container").append("svg")
 	.attr("width", width)
 	.attr("height", height)
 	.append("g")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+// The link tooltip
+var link_tip = d3.tip()
+	.attr('class', 'd3-tip')
+	.offset([60, 0])
+	.html(function (d) { 
+		var season = d.season.replace('season', '');
+		var html = "<div class='link-tooltip-title'>" + d.character + "</div>"; 
+		html += "<div class='link-tooltip-value'><span style='color:" + d.tip_color + ";'>" + d.value + " lines in Season " + season + "</span></div>"; 
+		return html;
+	});
+
+// The character tooltip
+var char_tip = d3.tip()
+	.attr('class', 'd3-tip')
+	.offset([-10, 0])
+	.html(function (d) {
+		var total = bubble_data[d.character];
+		// var max_season = tip_data[d.character].s;
+		// var color = season_colors[max_season].scale(season_colors[max_season].max);
+		var color = "#fff";
+		var html = "<div class='link-tooltip-title'>" + d.character + "</div>";
+		html += "<div class='link-tooltip-value'><span style='color:" + color + ";'>" + total + "</span></div>";
+		html += "<div class='lines-spoken'>lines spoken total</div>";
+		return html;
+	});
+
+// The arc tooltip 
+var arc_tip = d3.tip()
+	.attr('class', 'd3-tip')
+	.offset(function (d) {
+		if (d.season === 'season6' || d.season === 'season7' || d.season === 'season1') return [150, 0];
+		return [0, 0];
+	})
+	.html(function (d) {
+		var total_characters = Object.keys(counts[d.season]).length;
+		var total_lines = Object.keys(counts[d.season]).map(function (k) { return counts[d.season][k]; }).sum();
+		var season = 'Season ' + d.season.replace('season', '');
+		var html = "<div class='link-tooltip-title'>" + season + "</div>";
+		html += "<div class='total-char-wrapper'><div class='link-tooltip-value'><span style='color:'" + d.tip_color + ";'>" + total_characters + "</span></div>";
+		html += "<div class='lines-spoken'>characters</div></div>";
+		html += "<div class='total-line-wrapper'><div class='link-tooltip-value'><span style='color:'" + d.tip_color + ";'>" + total_lines + "</span></div>";
+		html += "<div class='lines-spoken'>lines</div></div>";
+		return html;
+	});
+
+svg.call(link_tip);
+svg.call(char_tip);
+svg.call(arc_tip);
 
 // Chord arcs 
 var chord_arc = svg.append("g").selectAll("path")
@@ -126,7 +186,7 @@ var node = svg.selectAll(".node")
 	.attr('transform', function (d) { return "translate(" + (d.x - bubble_x_offset) + "," + (d.y - bubble_y_offset) + ")"; });
 
 // The tooltip that appears upon hovering over the node 
-node.append("title").text(function (d) { return d.character + ':' + d.value; });
+//node.append("title").text(function (d) { return d.character + ':' + d.value; });
 
 // Radius of each node is proportional to the total # of times character has spoken 
 node.append("circle")
@@ -135,8 +195,15 @@ node.append("circle")
 	.style("opacity", 0.5);
 
 // Interactive functionality for character bubble
-node.on("mouseover", function (d) { d.over = true; highlight(d, d.character, seasons); })
-	.on("mouseout", function (d) { d.over = false; highlight(d, d.character, seasons); });
+node.on("mouseover", function (d) { 
+	char_tip.show(d);
+	d.over = true; 
+	highlight(d, d.character, seasons); 
+}).on("mouseout", function (d) { 
+	char_tip.hide(d);
+	d.over = false; 
+	highlight(d, d.character, seasons); 
+});
 
 // To generate a color scale for a given season
 var color_scale = function (season, colors) {
@@ -217,8 +284,6 @@ var character_chords = function (counts) {
 			// Increment the current angle
 			curr_angle = angle;
 		}
-
-		//break;
 	}
 
 	return data;
@@ -265,16 +330,16 @@ var link = links.append("g")			// So we don't conflate with other paths
 
 // Function to highlight/unhighlight an arc/node or node/set of arcs
 var highlight = function (d, character, seasons, arc) {
-	var arc_opacity = d.over ? 0.8 : 0.3;
-	var circle_opacity = d.over ? 0.9 : 0.5;
+	var arc_opacity = d.over ? 0.8 : 0.05;
+	var circle_opacity = d.over ? 0.8 : 0.5;
 	var stroke_width = d.over ? 2 : 1;
 	var circle_stroke_color = d.over ? 'black' : '#fff';
 	var arc_stroke_color = d.over ? 'black' : 'none';
 
-	if (!arc) {
-		if (d.over) link.style("opacity", 0.05);
-		else link.style("opacity", 0.3);
-	}
+	// if (!arc) {
+	// 	if (d.over) link.style("opacity", 0.05);
+	// 	else link.style("opacity", 0.3);
+	// }
 
 	// Modify all arcs corresponding to character and season(s)
 	var generator, color, a;
@@ -303,8 +368,8 @@ var highlight = function (d, character, seasons, arc) {
 var highlight_arc = function (d) {
 	// Increase size of title 
 
-	if (d.over) link.style("opacity", 0.05);
-	else link.style("opacity", 0.3);
+	// if (d.over) link.style("opacity", 0.05);
+	// else link.style("opacity", 0.3);
 
 	// Highlight all links associated with this arc 
 	for (var character in counts[d.season]) highlight(d, character, [d.season], true);
@@ -318,11 +383,19 @@ var highlight_arc = function (d) {
 //link.style("stroke", "#fff")
 link.style("fill", "#fff")
 	.style("stroke-width", 1)
-	.style("opacity", 0.3);
+	.style("opacity", 0.05);
 
 // Link hover functionality 
-link.on("mouseover", function (d) { d.over = true; highlight(d, d.character, [d.season]); })
-	.on("mouseout", function (d) { d.over = false; highlight(d, d.character, [d.season]); });
+link.on("mouseover", function (d) { 
+	d.tip_color = season_colors[d.season].scale(season_colors[d.season].max);
+	link_tip.show(d);
+	d.over = true; 
+	highlight(d, d.character, [d.season]); 
+}).on("mouseout", function (d) { 
+	link_tip.hide(d);
+	d.over = false; 
+	highlight(d, d.character, [d.season]); 
+});
 
 
 // Create text data for each season 
@@ -347,24 +420,25 @@ svg.append("g").selectAll("text")
 	.data(text_data)
 	.enter()
 	.append("text")
-	.attr("x", function (d) { log(d.id); return d.x; })
+	.attr("x", function (d) { return d.x; })
 	.attr("dy", -15)
 	.append("textPath")
 	.attr("class", "season-title")
 	.attr("xlink:href", function (d) { return d.href; })
 	.attr("id", function (d) { return d.id; })
 	.text(function (d) { return d.text; })
-	.on("mouseover", function (d, i) { d.over = true; highlight_arc(d); })
-	.on("mouseout", function (d, i) { d.over = false; highlight_arc(d); });
+	.on("mouseover", function (d, i) { 
+		d.tip_color = season_colors[d.season].scale(season_colors[d.season].max);
+		arc_tip.show(d);
+		d.over = true; 
+		highlight_arc(d); 
+	})
+	.on("mouseout", function (d, i) { 
+		arc_tip.hide(d);
+		d.over = false; 
+		highlight_arc(d); 
+	});
 
 
 // Bring all the bubbles to the front 
 node.moveToFront();
-
-/* 
-	TO DO 
-	- individual character tooltips
-	- make non-highlighted stuff all but disappear
-
-	- useful: http://www.brightpointinc.com/interactive/political_influence/index.html
-*/
