@@ -264,12 +264,17 @@ var link = links.append("g")			// So we don't conflate with other paths
 
 
 // Function to highlight/unhighlight an arc/node or node/set of arcs
-var highlight = function (d, character, seasons) {
+var highlight = function (d, character, seasons, arc) {
 	var arc_opacity = d.over ? 0.8 : 0.3;
 	var circle_opacity = d.over ? 0.9 : 0.5;
 	var stroke_width = d.over ? 2 : 1;
 	var circle_stroke_color = d.over ? 'black' : '#fff';
 	var arc_stroke_color = d.over ? 'black' : 'none';
+
+	if (!arc) {
+		if (d.over) link.style("opacity", 0.05);
+		else link.style("opacity", 0.3);
+	}
 
 	// Modify all arcs corresponding to character and season(s)
 	var generator, color, a;
@@ -279,7 +284,7 @@ var highlight = function (d, character, seasons) {
 		color = d.over ? generator.scale(Math.random() * generator.max) : '#fff';
 
 		a = d3.select('#' + character + '-' + seasons[i]);
-		a.style('opacity', arc_opacity).style('fill', color).style('stroke', arc_stroke_color);
+		a.style('opacity', arc_opacity).style('fill', color);//.style('stroke', arc_stroke_color);
 
 		if (d.over) a.moveToFront();
 		else a.moveToBack();
@@ -298,8 +303,11 @@ var highlight = function (d, character, seasons) {
 var highlight_arc = function (d) {
 	// Increase size of title 
 
+	if (d.over) link.style("opacity", 0.05);
+	else link.style("opacity", 0.3);
+
 	// Highlight all links associated with this arc 
-	for (var character in counts[d.season]) highlight(d, character, [d.season]);
+	for (var character in counts[d.season]) highlight(d, character, [d.season], true);
 
 	if (d.over) node.moveToBack();
 	else node.moveToFront();
